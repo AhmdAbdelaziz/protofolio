@@ -1,0 +1,49 @@
+﻿@model IEnumerable<WebApplication9.Models.Product>
+
+@{
+    ViewData["Title"] = "Index";
+}
+
+<h1>Index</h1>
+
+<p>
+    <a asp-action="Create">Create New</a>
+</p>
+
+
+<section id="portfolio" class="portfolio">
+    <div class="container" data-aos="fade-up">
+
+        <div class="section-title">
+            <h2>
+                مصر - أكبر موقع للتسوق عبر الإنترنت
+            </h2>
+            <p>
+                أصبحت مواقع التسوق عبر الإنترنت الآن جزء من حياتنا اليومية، لأن الجميع يتمتع بإمكانية شراء كل ما يحتاجه، سواء كانت ملابس أو إلكترونيات، دون الحاجة إلى الانتقال من المنزل. هذا ما تقدمه جوميا مصر، والأفضل من هذا أن جوميا مصر توفر لك امكانية العثور علي كل المنتجات التي تبحث عنها في متجر واحد. هذا ما يجعل جوميا أحد أفضل مواقع تسوق عبر الإنترنت في مصر.
+
+
+            </p>
+        </div>
+
+        <div class="row">
+            <div class="col-lg-12 d-flex justify-content-center">
+                <ul id="portfolio-flters">
+                   
+                </ul>
+            </div>
+        </div>
+
+        <div class="row portfolio-container">
+            @foreach (var item in Model)
+            {
+                <partial name="_product" model="@item" />
+
+            }
+
+
+
+
+        </div>
+
+    </div>
+</section><!-- End Portfolio Section -->

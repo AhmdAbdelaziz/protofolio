@@ -1,0 +1,81 @@
+﻿@model WebApplication9.Models.Product
+
+
+<section id="portfolio-details" class="portfolio-details">
+    <div class="container">
+
+        <div class="row gy-4">
+
+            <div class="col-lg-8">
+                <div class="testimonials-slider swiper swiper-initialized swiper-horizontal aos-init aos-animate swiper-pointer-events" data-aos="fade-up" data-aos-delay="100">
+                    <div class="swiper-wrapper" id="swiper-wrapper-b4fb10d6490fc6ddc" aria-live="off" style="transform: translate3d(-3117.33px, 0px, 0px); transition-duration: 600ms;">
+                        
+
+                       @foreach (var item in Model.ProductImages)
+                            {    <div class="swiper-slide" role="group" style="width: 405.333px; margin-right: 40px;" data-swiper-slide-index="0">
+                            <div class="testimonial-item">
+
+
+
+                                    <img src="https://localhost:62166/upload/@item.Image" class="testimonial-img" width="350px" height="350px">
+
+
+
+                                
+                            </div>
+                        </div>}
+
+                       
+
+
+                    </div>
+                    <div class="swiper-pagination swiper-pagination-clickable swiper-pagination-bullets swiper-pagination-horizontal"><span class="swiper-pagination-bullet" tabindex="0" role="button" aria-label="Go to slide 1"></span><span class="swiper-pagination-bullet" tabindex="0" role="button" aria-label="Go to slide 2"></span><span class="swiper-pagination-bullet" tabindex="0" role="button" aria-label="Go to slide 3"></span><span class="swiper-pagination-bullet" tabindex="0" role="button" aria-label="Go to slide 4"></span><span class="swiper-pagination-bullet swiper-pagination-bullet-active" tabindex="0" role="button" aria-label="Go to slide 5" aria-current="true"></span><span class="swiper-pagination-bullet" tabindex="0" role="button" aria-label="Go to slide 6"></span><span class="swiper-pagination-bullet" tabindex="0" role="button" aria-label="Go to slide 7"></span></div>
+                    <span class="swiper-notification" aria-live="assertive" aria-atomic="true"></span>
+                    <span class="swiper-notification" aria-live="assertive" aria-atomic="true"></span>
+                </div>
+
+                 
+
+
+
+
+
+
+
+
+
+
+            </div>
+
+            <div class="col-lg-4">
+                <div class="portfolio-info">
+                    <h3>Project information</h3>
+                    <ul>
+                        <li><strong>Price</strong>: @Model.Price</li>
+                        <li><strong>Category</strong>: @Model.Category.Name</li>
+                        <li><strong>Client</strong>: @Model.SupplierName</li>
+                        <li><strong>Project date</strong>: @Model.EntryDate</li>
+                        <li><strong>Project URL</strong>: <a href="#">@Model.ReviewUrl</a></li>
+                    </ul>
+                </div>
+                <div class="portfolio-description">
+                    <h2>@Model.Name</h2>
+                    <p>
+                        @Model.Description
+                    </p>
+                </div>
+            </div>
+
+        </div>
+
+    </div>
+</section>
+
+
+
+
+
+
+
+
+

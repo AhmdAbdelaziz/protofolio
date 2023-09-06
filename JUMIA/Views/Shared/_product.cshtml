@@ -1,0 +1,25 @@
+﻿@model Product
+
+<div class="col-lg-4 col-md-6 portfolio-item @Model.Category.Name">
+    <div class="portfolio-wrap">
+        <img src="https://localhost:62166/upload/@Model.Photo" class="img-fluid" alt="">
+        <div class="portfolio-info">
+            <h4>@Model.Name </h4>
+            <p>@Model.Price</p>
+        </div>
+        <div class="portfolio-links">
+            <a href="assets/img/portfolio/portfolio-1.jpg" data-gallery="portfolioGallery" class="portfolio-lightbox" title="App 1"><i class="bx bx-plus"></i></a>
+            <a href="/home/currentproduct/@Model.Id" title="More Details"><i class="bx bx-link"></i></a>
+        </div>
+    </div>
+    <center>
+        <div>
+            <a class="btn btn-primary" asp-controller="Productsxx" asp-action="Edit" asp-route-id="@Model.Id">Edit</a> |
+            <a class="btn btn-primary" asp-controller="Productsxx" asp-action="Details" asp-route-id="@Model.Id">Details</a> |
+            <a class="btn btn-primary" asp-controller="Productsxx" asp-action="Delete" asp-route-id="@Model.Id">Delete</a>
+            <a class="btn btn-danger" href="/home/AddToCart/@Model.Id">AddToCart</a>
+        </div>
+    </center>
+    
+
+</div>

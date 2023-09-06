@@ -1,0 +1,960 @@
+C:\Users\BC\source\repos\WebApplication9\AdminArea\AdminArea.Web\bin\Debug\net6.0\web.config
+C:\Users\BC\source\repos\WebApplication9\AdminArea\AdminArea.Web\bin\Debug\net6.0\appsettings.bundles.json
+C:\Users\BC\source\repos\WebApplication9\AdminArea\AdminArea.Web\bin\Debug\net6.0\appsettings.Development.json
+C:\Users\BC\source\repos\WebApplication9\AdminArea\AdminArea.Web\bin\Debug\net6.0\appsettings.json
+C:\Users\BC\source\repos\WebApplication9\AdminArea\AdminArea.Web\bin\Debug\net6.0\AdminArea.Web.staticwebassets.runtime.json
+C:\Users\BC\source\repos\WebApplication9\AdminArea\AdminArea.Web\bin\Debug\net6.0\AdminArea.Web.exe
+C:\Users\BC\source\repos\WebApplication9\AdminArea\AdminArea.Web\bin\Debug\net6.0\AdminArea.Web.deps.json
+C:\Users\BC\source\repos\WebApplication9\AdminArea\AdminArea.Web\bin\Debug\net6.0\AdminArea.Web.runtimeconfig.json
+C:\Users\BC\source\repos\WebApplication9\AdminArea\AdminArea.Web\bin\Debug\net6.0\AdminArea.Web.dll
+C:\Users\BC\source\repos\WebApplication9\AdminArea\AdminArea.Web\bin\Debug\net6.0\AdminArea.Web.pdb
+C:\Users\BC\source\repos\WebApplication9\AdminArea\AdminArea.Web\bin\Debug\net6.0\refs\Microsoft.AspNetCore.Antiforgery.dll
+C:\Users\BC\source\repos\WebApplication9\AdminArea\AdminArea.Web\bin\Debug\net6.0\refs\Microsoft.AspNetCore.Authentication.Abstractions.dll
+C:\Users\BC\source\repos\WebApplication9\AdminArea\AdminArea.Web\bin\Debug\net6.0\refs\Microsoft.AspNetCore.Authentication.Cookies.dll
+C:\Users\BC\source\repos\WebApplication9\AdminArea\AdminArea.Web\bin\Debug\net6.0\refs\Microsoft.AspNetCore.Authentication.Core.dll
+C:\Users\BC\source\repos\WebApplication9\AdminArea\AdminArea.Web\bin\Debug\net6.0\refs\Microsoft.AspNetCore.Authentication.dll
+C:\Users\BC\source\repos\WebApplication9\AdminArea\AdminArea.Web\bin\Debug\net6.0\refs\Microsoft.AspNetCore.Authentication.OAuth.dll
+C:\Users\BC\source\repos\WebApplication9\AdminArea\AdminArea.Web\bin\Debug\net6.0\refs\Microsoft.AspNetCore.Authorization.dll
+C:\Users\BC\source\repos\WebApplication9\AdminArea\AdminArea.Web\bin\Debug\net6.0\refs\Microsoft.AspNetCore.Authorization.Policy.dll
+C:\Users\BC\source\repos\WebApplication9\AdminArea\AdminArea.Web\bin\Debug\net6.0\refs\Microsoft.AspNetCore.Components.Authorization.dll
+C:\Users\BC\source\repos\WebApplication9\AdminArea\AdminArea.Web\bin\Debug\net6.0\refs\Microsoft.AspNetCore.Components.dll
+C:\Users\BC\source\repos\WebApplication9\AdminArea\AdminArea.Web\bin\Debug\net6.0\refs\Microsoft.AspNetCore.Components.Forms.dll
+C:\Users\BC\source\repos\WebApplication9\AdminArea\AdminArea.Web\bin\Debug\net6.0\refs\Microsoft.AspNetCore.Components.Server.dll
+C:\Users\BC\source\repos\WebApplication9\AdminArea\AdminArea.Web\bin\Debug\net6.0\refs\Microsoft.AspNetCore.Components.Web.dll
+C:\Users\BC\source\repos\WebApplication9\AdminArea\AdminArea.Web\bin\Debug\net6.0\refs\Microsoft.AspNetCore.Connections.Abstractions.dll
+C:\Users\BC\source\repos\WebApplication9\AdminArea\AdminArea.Web\bin\Debug\net6.0\refs\Microsoft.AspNetCore.CookiePolicy.dll
+C:\Users\BC\source\repos\WebApplication9\AdminArea\AdminArea.Web\bin\Debug\net6.0\refs\Microsoft.AspNetCore.Cors.dll
+C:\Users\BC\source\repos\WebApplication9\AdminArea\AdminArea.Web\bin\Debug\net6.0\refs\Microsoft.AspNetCore.Cryptography.Internal.dll
+C:\Users\BC\source\repos\WebApplication9\AdminArea\AdminArea.Web\bin\Debug\net6.0\refs\Microsoft.AspNetCore.Cryptography.KeyDerivation.dll
+C:\Users\BC\source\repos\WebApplication9\AdminArea\AdminArea.Web\bin\Debug\net6.0\refs\Microsoft.AspNetCore.DataProtection.Abstractions.dll
+C:\Users\BC\source\repos\WebApplication9\AdminArea\AdminArea.Web\bin\Debug\net6.0\refs\Microsoft.AspNetCore.DataProtection.dll
+C:\Users\BC\source\repos\WebApplication9\AdminArea\AdminArea.Web\bin\Debug\net6.0\refs\Microsoft.AspNetCore.DataProtection.Extensions.dll
+C:\Users\BC\source\repos\WebApplication9\AdminArea\AdminArea.Web\bin\Debug\net6.0\refs\Microsoft.AspNetCore.Diagnostics.Abstractions.dll
+C:\Users\BC\source\repos\WebApplication9\AdminArea\AdminArea.Web\bin\Debug\net6.0\refs\Microsoft.AspNetCore.Diagnostics.dll
+C:\Users\BC\source\repos\WebApplication9\AdminArea\AdminArea.Web\bin\Debug\net6.0\refs\Microsoft.AspNetCore.Diagnostics.HealthChecks.dll
+C:\Users\BC\source\repos\WebApplication9\AdminArea\AdminArea.Web\bin\Debug\net6.0\refs\Microsoft.AspNetCore.dll
+C:\Users\BC\source\repos\WebApplication9\AdminArea\AdminArea.Web\bin\Debug\net6.0\refs\Microsoft.AspNetCore.HostFiltering.dll
+C:\Users\BC\source\repos\WebApplication9\AdminArea\AdminArea.Web\bin\Debug\net6.0\refs\Microsoft.AspNetCore.Hosting.Abstractions.dll
+C:\Users\BC\source\repos\WebApplication9\AdminArea\AdminArea.Web\bin\Debug\net6.0\refs\Microsoft.AspNetCore.Hosting.dll
+C:\Users\BC\source\repos\WebApplication9\AdminArea\AdminArea.Web\bin\Debug\net6.0\refs\Microsoft.AspNetCore.Hosting.Server.Abstractions.dll
+C:\Users\BC\source\repos\WebApplication9\AdminArea\AdminArea.Web\bin\Debug\net6.0\refs\Microsoft.AspNetCore.Html.Abstractions.dll
+C:\Users\BC\source\repos\WebApplication9\AdminArea\AdminArea.Web\bin\Debug\net6.0\refs\Microsoft.AspNetCore.Http.Abstractions.dll
+C:\Users\BC\source\repos\WebApplication9\AdminArea\AdminArea.Web\bin\Debug\net6.0\refs\Microsoft.AspNetCore.Http.Connections.Common.dll
+C:\Users\BC\source\repos\WebApplication9\AdminArea\AdminArea.Web\bin\Debug\net6.0\refs\Microsoft.AspNetCore.Http.Connections.dll
+C:\Users\BC\source\repos\WebApplication9\AdminArea\AdminArea.Web\bin\Debug\net6.0\refs\Microsoft.AspNetCore.Http.dll
+C:\Users\BC\source\repos\WebApplication9\AdminArea\AdminArea.Web\bin\Debug\net6.0\refs\Microsoft.AspNetCore.Http.Extensions.dll
+C:\Users\BC\source\repos\WebApplication9\AdminArea\AdminArea.Web\bin\Debug\net6.0\refs\Microsoft.AspNetCore.Http.Features.dll
+C:\Users\BC\source\repos\WebApplication9\AdminArea\AdminArea.Web\bin\Debug\net6.0\refs\Microsoft.AspNetCore.Http.Results.dll
+C:\Users\BC\source\repos\WebApplication9\AdminArea\AdminArea.Web\bin\Debug\net6.0\refs\Microsoft.AspNetCore.HttpLogging.dll
+C:\Users\BC\source\repos\WebApplication9\AdminArea\AdminArea.Web\bin\Debug\net6.0\refs\Microsoft.AspNetCore.HttpOverrides.dll
+C:\Users\BC\source\repos\WebApplication9\AdminArea\AdminArea.Web\bin\Debug\net6.0\refs\Microsoft.AspNetCore.HttpsPolicy.dll
+C:\Users\BC\source\repos\WebApplication9\AdminArea\AdminArea.Web\bin\Debug\net6.0\refs\Microsoft.AspNetCore.Identity.dll
+C:\Users\BC\source\repos\WebApplication9\AdminArea\AdminArea.Web\bin\Debug\net6.0\refs\Microsoft.AspNetCore.Localization.dll
+C:\Users\BC\source\repos\WebApplication9\AdminArea\AdminArea.Web\bin\Debug\net6.0\refs\Microsoft.AspNetCore.Localization.Routing.dll
+C:\Users\BC\source\repos\WebApplication9\AdminArea\AdminArea.Web\bin\Debug\net6.0\refs\Microsoft.AspNetCore.Metadata.dll
+C:\Users\BC\source\repos\WebApplication9\AdminArea\AdminArea.Web\bin\Debug\net6.0\refs\Microsoft.AspNetCore.Mvc.Abstractions.dll
+C:\Users\BC\source\repos\WebApplication9\AdminArea\AdminArea.Web\bin\Debug\net6.0\refs\Microsoft.AspNetCore.Mvc.ApiExplorer.dll
+C:\Users\BC\source\repos\WebApplication9\AdminArea\AdminArea.Web\bin\Debug\net6.0\refs\Microsoft.AspNetCore.Mvc.Core.dll
+C:\Users\BC\source\repos\WebApplication9\AdminArea\AdminArea.Web\bin\Debug\net6.0\refs\Microsoft.AspNetCore.Mvc.Cors.dll
+C:\Users\BC\source\repos\WebApplication9\AdminArea\AdminArea.Web\bin\Debug\net6.0\refs\Microsoft.AspNetCore.Mvc.DataAnnotations.dll
+C:\Users\BC\source\repos\WebApplication9\AdminArea\AdminArea.Web\bin\Debug\net6.0\refs\Microsoft.AspNetCore.Mvc.dll
+C:\Users\BC\source\repos\WebApplication9\AdminArea\AdminArea.Web\bin\Debug\net6.0\refs\Microsoft.AspNetCore.Mvc.Formatters.Json.dll
+C:\Users\BC\source\repos\WebApplication9\AdminArea\AdminArea.Web\bin\Debug\net6.0\refs\Microsoft.AspNetCore.Mvc.Formatters.Xml.dll
+C:\Users\BC\source\repos\WebApplication9\AdminArea\AdminArea.Web\bin\Debug\net6.0\refs\Microsoft.AspNetCore.Mvc.Localization.dll
+C:\Users\BC\source\repos\WebApplication9\AdminArea\AdminArea.Web\bin\Debug\net6.0\refs\Microsoft.AspNetCore.Mvc.Razor.dll
+C:\Users\BC\source\repos\WebApplication9\AdminArea\AdminArea.Web\bin\Debug\net6.0\refs\Microsoft.AspNetCore.Mvc.RazorPages.dll
+C:\Users\BC\source\repos\WebApplication9\AdminArea\AdminArea.Web\bin\Debug\net6.0\refs\Microsoft.AspNetCore.Mvc.TagHelpers.dll
+C:\Users\BC\source\repos\WebApplication9\AdminArea\AdminArea.Web\bin\Debug\net6.0\refs\Microsoft.AspNetCore.Mvc.ViewFeatures.dll
+C:\Users\BC\source\repos\WebApplication9\AdminArea\AdminArea.Web\bin\Debug\net6.0\refs\Microsoft.AspNetCore.Razor.dll
+C:\Users\BC\source\repos\WebApplication9\AdminArea\AdminArea.Web\bin\Debug\net6.0\refs\Microsoft.AspNetCore.Razor.Runtime.dll
+C:\Users\BC\source\repos\WebApplication9\AdminArea\AdminArea.Web\bin\Debug\net6.0\refs\Microsoft.AspNetCore.ResponseCaching.Abstractions.dll
+C:\Users\BC\source\repos\WebApplication9\AdminArea\AdminArea.Web\bin\Debug\net6.0\refs\Microsoft.AspNetCore.ResponseCaching.dll
+C:\Users\BC\source\repos\WebApplication9\AdminArea\AdminArea.Web\bin\Debug\net6.0\refs\Microsoft.AspNetCore.ResponseCompression.dll
+C:\Users\BC\source\repos\WebApplication9\AdminArea\AdminArea.Web\bin\Debug\net6.0\refs\Microsoft.AspNetCore.Rewrite.dll
+C:\Users\BC\source\repos\WebApplication9\AdminArea\AdminArea.Web\bin\Debug\net6.0\refs\Microsoft.AspNetCore.Routing.Abstractions.dll
+C:\Users\BC\source\repos\WebApplication9\AdminArea\AdminArea.Web\bin\Debug\net6.0\refs\Microsoft.AspNetCore.Routing.dll
+C:\Users\BC\source\repos\WebApplication9\AdminArea\AdminArea.Web\bin\Debug\net6.0\refs\Microsoft.AspNetCore.Server.HttpSys.dll
+C:\Users\BC\source\repos\WebApplication9\AdminArea\AdminArea.Web\bin\Debug\net6.0\refs\Microsoft.AspNetCore.Server.IIS.dll
+C:\Users\BC\source\repos\WebApplication9\AdminArea\AdminArea.Web\bin\Debug\net6.0\refs\Microsoft.AspNetCore.Server.IISIntegration.dll
+C:\Users\BC\source\repos\WebApplication9\AdminArea\AdminArea.Web\bin\Debug\net6.0\refs\Microsoft.AspNetCore.Server.Kestrel.Core.dll
+C:\Users\BC\source\repos\WebApplication9\AdminArea\AdminArea.Web\bin\Debug\net6.0\refs\Microsoft.AspNetCore.Server.Kestrel.dll
+C:\Users\BC\source\repos\WebApplication9\AdminArea\AdminArea.Web\bin\Debug\net6.0\refs\Microsoft.AspNetCore.Server.Kestrel.Transport.Quic.dll
+C:\Users\BC\source\repos\WebApplication9\AdminArea\AdminArea.Web\bin\Debug\net6.0\refs\Microsoft.AspNetCore.Server.Kestrel.Transport.Sockets.dll
+C:\Users\BC\source\repos\WebApplication9\AdminArea\AdminArea.Web\bin\Debug\net6.0\refs\Microsoft.AspNetCore.Session.dll
+C:\Users\BC\source\repos\WebApplication9\AdminArea\AdminArea.Web\bin\Debug\net6.0\refs\Microsoft.AspNetCore.SignalR.Common.dll
+C:\Users\BC\source\repos\WebApplication9\AdminArea\AdminArea.Web\bin\Debug\net6.0\refs\Microsoft.AspNetCore.SignalR.Core.dll
+C:\Users\BC\source\repos\WebApplication9\AdminArea\AdminArea.Web\bin\Debug\net6.0\refs\Microsoft.AspNetCore.SignalR.dll
+C:\Users\BC\source\repos\WebApplication9\AdminArea\AdminArea.Web\bin\Debug\net6.0\refs\Microsoft.AspNetCore.SignalR.Protocols.Json.dll
+C:\Users\BC\source\repos\WebApplication9\AdminArea\AdminArea.Web\bin\Debug\net6.0\refs\Microsoft.AspNetCore.StaticFiles.dll
+C:\Users\BC\source\repos\WebApplication9\AdminArea\AdminArea.Web\bin\Debug\net6.0\refs\Microsoft.AspNetCore.WebSockets.dll
+C:\Users\BC\source\repos\WebApplication9\AdminArea\AdminArea.Web\bin\Debug\net6.0\refs\Microsoft.AspNetCore.WebUtilities.dll
+C:\Users\BC\source\repos\WebApplication9\AdminArea\AdminArea.Web\bin\Debug\net6.0\refs\Microsoft.CSharp.dll
+C:\Users\BC\source\repos\WebApplication9\AdminArea\AdminArea.Web\bin\Debug\net6.0\refs\Microsoft.Extensions.Configuration.Binder.dll
+C:\Users\BC\source\repos\WebApplication9\AdminArea\AdminArea.Web\bin\Debug\net6.0\refs\Microsoft.Extensions.Configuration.CommandLine.dll
+C:\Users\BC\source\repos\WebApplication9\AdminArea\AdminArea.Web\bin\Debug\net6.0\refs\Microsoft.Extensions.Configuration.dll
+C:\Users\BC\source\repos\WebApplication9\AdminArea\AdminArea.Web\bin\Debug\net6.0\refs\Microsoft.Extensions.Configuration.EnvironmentVariables.dll
+C:\Users\BC\source\repos\WebApplication9\AdminArea\AdminArea.Web\bin\Debug\net6.0\refs\Microsoft.Extensions.Configuration.FileExtensions.dll
+C:\Users\BC\source\repos\WebApplication9\AdminArea\AdminArea.Web\bin\Debug\net6.0\refs\Microsoft.Extensions.Configuration.Ini.dll
+C:\Users\BC\source\repos\WebApplication9\AdminArea\AdminArea.Web\bin\Debug\net6.0\refs\Microsoft.Extensions.Configuration.Json.dll
+C:\Users\BC\source\repos\WebApplication9\AdminArea\AdminArea.Web\bin\Debug\net6.0\refs\Microsoft.Extensions.Configuration.KeyPerFile.dll
+C:\Users\BC\source\repos\WebApplication9\AdminArea\AdminArea.Web\bin\Debug\net6.0\refs\Microsoft.Extensions.Configuration.UserSecrets.dll
+C:\Users\BC\source\repos\WebApplication9\AdminArea\AdminArea.Web\bin\Debug\net6.0\refs\Microsoft.Extensions.Configuration.Xml.dll
+C:\Users\BC\source\repos\WebApplication9\AdminArea\AdminArea.Web\bin\Debug\net6.0\refs\Microsoft.Extensions.Diagnostics.HealthChecks.Abstractions.dll
+C:\Users\BC\source\repos\WebApplication9\AdminArea\AdminArea.Web\bin\Debug\net6.0\refs\Microsoft.Extensions.Diagnostics.HealthChecks.dll
+C:\Users\BC\source\repos\WebApplication9\AdminArea\AdminArea.Web\bin\Debug\net6.0\refs\Microsoft.Extensions.Features.dll
+C:\Users\BC\source\repos\WebApplication9\AdminArea\AdminArea.Web\bin\Debug\net6.0\refs\Microsoft.Extensions.FileProviders.Abstractions.dll
+C:\Users\BC\source\repos\WebApplication9\AdminArea\AdminArea.Web\bin\Debug\net6.0\refs\Microsoft.Extensions.FileProviders.Composite.dll
+C:\Users\BC\source\repos\WebApplication9\AdminArea\AdminArea.Web\bin\Debug\net6.0\refs\Microsoft.Extensions.FileProviders.Embedded.dll
+C:\Users\BC\source\repos\WebApplication9\AdminArea\AdminArea.Web\bin\Debug\net6.0\refs\Microsoft.Extensions.FileProviders.Physical.dll
+C:\Users\BC\source\repos\WebApplication9\AdminArea\AdminArea.Web\bin\Debug\net6.0\refs\Microsoft.Extensions.FileSystemGlobbing.dll
+C:\Users\BC\source\repos\WebApplication9\AdminArea\AdminArea.Web\bin\Debug\net6.0\refs\Microsoft.Extensions.Hosting.Abstractions.dll
+C:\Users\BC\source\repos\WebApplication9\AdminArea\AdminArea.Web\bin\Debug\net6.0\refs\Microsoft.Extensions.Hosting.dll
+C:\Users\BC\source\repos\WebApplication9\AdminArea\AdminArea.Web\bin\Debug\net6.0\refs\Microsoft.Extensions.Http.dll
+C:\Users\BC\source\repos\WebApplication9\AdminArea\AdminArea.Web\bin\Debug\net6.0\refs\Microsoft.Extensions.Identity.Core.dll
+C:\Users\BC\source\repos\WebApplication9\AdminArea\AdminArea.Web\bin\Debug\net6.0\refs\Microsoft.Extensions.Identity.Stores.dll
+C:\Users\BC\source\repos\WebApplication9\AdminArea\AdminArea.Web\bin\Debug\net6.0\refs\Microsoft.Extensions.Localization.Abstractions.dll
+C:\Users\BC\source\repos\WebApplication9\AdminArea\AdminArea.Web\bin\Debug\net6.0\refs\Microsoft.Extensions.Localization.dll
+C:\Users\BC\source\repos\WebApplication9\AdminArea\AdminArea.Web\bin\Debug\net6.0\refs\Microsoft.Extensions.Logging.Configuration.dll
+C:\Users\BC\source\repos\WebApplication9\AdminArea\AdminArea.Web\bin\Debug\net6.0\refs\Microsoft.Extensions.Logging.Console.dll
+C:\Users\BC\source\repos\WebApplication9\AdminArea\AdminArea.Web\bin\Debug\net6.0\refs\Microsoft.Extensions.Logging.Debug.dll
+C:\Users\BC\source\repos\WebApplication9\AdminArea\AdminArea.Web\bin\Debug\net6.0\refs\Microsoft.Extensions.Logging.EventLog.dll
+C:\Users\BC\source\repos\WebApplication9\AdminArea\AdminArea.Web\bin\Debug\net6.0\refs\Microsoft.Extensions.Logging.EventSource.dll
+C:\Users\BC\source\repos\WebApplication9\AdminArea\AdminArea.Web\bin\Debug\net6.0\refs\Microsoft.Extensions.Logging.TraceSource.dll
+C:\Users\BC\source\repos\WebApplication9\AdminArea\AdminArea.Web\bin\Debug\net6.0\refs\Microsoft.Extensions.ObjectPool.dll
+C:\Users\BC\source\repos\WebApplication9\AdminArea\AdminArea.Web\bin\Debug\net6.0\refs\Microsoft.Extensions.Options.ConfigurationExtensions.dll
+C:\Users\BC\source\repos\WebApplication9\AdminArea\AdminArea.Web\bin\Debug\net6.0\refs\Microsoft.Extensions.Options.DataAnnotations.dll
+C:\Users\BC\source\repos\WebApplication9\AdminArea\AdminArea.Web\bin\Debug\net6.0\refs\Microsoft.Extensions.WebEncoders.dll
+C:\Users\BC\source\repos\WebApplication9\AdminArea\AdminArea.Web\bin\Debug\net6.0\refs\Microsoft.JSInterop.dll
+C:\Users\BC\source\repos\WebApplication9\AdminArea\AdminArea.Web\bin\Debug\net6.0\refs\Microsoft.Net.Http.Headers.dll
+C:\Users\BC\source\repos\WebApplication9\AdminArea\AdminArea.Web\bin\Debug\net6.0\refs\Microsoft.VisualBasic.Core.dll
+C:\Users\BC\source\repos\WebApplication9\AdminArea\AdminArea.Web\bin\Debug\net6.0\refs\Microsoft.VisualBasic.dll
+C:\Users\BC\source\repos\WebApplication9\AdminArea\AdminArea.Web\bin\Debug\net6.0\refs\Microsoft.Win32.Primitives.dll
+C:\Users\BC\source\repos\WebApplication9\AdminArea\AdminArea.Web\bin\Debug\net6.0\refs\Microsoft.Win32.Registry.dll
+C:\Users\BC\source\repos\WebApplication9\AdminArea\AdminArea.Web\bin\Debug\net6.0\refs\mscorlib.dll
+C:\Users\BC\source\repos\WebApplication9\AdminArea\AdminArea.Web\bin\Debug\net6.0\refs\netstandard.dll
+C:\Users\BC\source\repos\WebApplication9\AdminArea\AdminArea.Web\bin\Debug\net6.0\refs\System.AppContext.dll
+C:\Users\BC\source\repos\WebApplication9\AdminArea\AdminArea.Web\bin\Debug\net6.0\refs\System.Buffers.dll
+C:\Users\BC\source\repos\WebApplication9\AdminArea\AdminArea.Web\bin\Debug\net6.0\refs\System.Collections.Concurrent.dll
+C:\Users\BC\source\repos\WebApplication9\AdminArea\AdminArea.Web\bin\Debug\net6.0\refs\System.Collections.dll
+C:\Users\BC\source\repos\WebApplication9\AdminArea\AdminArea.Web\bin\Debug\net6.0\refs\System.Collections.Immutable.dll
+C:\Users\BC\source\repos\WebApplication9\AdminArea\AdminArea.Web\bin\Debug\net6.0\refs\System.Collections.NonGeneric.dll
+C:\Users\BC\source\repos\WebApplication9\AdminArea\AdminArea.Web\bin\Debug\net6.0\refs\System.Collections.Specialized.dll
+C:\Users\BC\source\repos\WebApplication9\AdminArea\AdminArea.Web\bin\Debug\net6.0\refs\System.ComponentModel.Annotations.dll
+C:\Users\BC\source\repos\WebApplication9\AdminArea\AdminArea.Web\bin\Debug\net6.0\refs\System.ComponentModel.DataAnnotations.dll
+C:\Users\BC\source\repos\WebApplication9\AdminArea\AdminArea.Web\bin\Debug\net6.0\refs\System.ComponentModel.dll
+C:\Users\BC\source\repos\WebApplication9\AdminArea\AdminArea.Web\bin\Debug\net6.0\refs\System.ComponentModel.EventBasedAsync.dll
+C:\Users\BC\source\repos\WebApplication9\AdminArea\AdminArea.Web\bin\Debug\net6.0\refs\System.ComponentModel.Primitives.dll
+C:\Users\BC\source\repos\WebApplication9\AdminArea\AdminArea.Web\bin\Debug\net6.0\refs\System.ComponentModel.TypeConverter.dll
+C:\Users\BC\source\repos\WebApplication9\AdminArea\AdminArea.Web\bin\Debug\net6.0\refs\System.Configuration.dll
+C:\Users\BC\source\repos\WebApplication9\AdminArea\AdminArea.Web\bin\Debug\net6.0\refs\System.Console.dll
+C:\Users\BC\source\repos\WebApplication9\AdminArea\AdminArea.Web\bin\Debug\net6.0\refs\System.Core.dll
+C:\Users\BC\source\repos\WebApplication9\AdminArea\AdminArea.Web\bin\Debug\net6.0\refs\System.Data.Common.dll
+C:\Users\BC\source\repos\WebApplication9\AdminArea\AdminArea.Web\bin\Debug\net6.0\refs\System.Data.DataSetExtensions.dll
+C:\Users\BC\source\repos\WebApplication9\AdminArea\AdminArea.Web\bin\Debug\net6.0\refs\System.Data.dll
+C:\Users\BC\source\repos\WebApplication9\AdminArea\AdminArea.Web\bin\Debug\net6.0\refs\System.Diagnostics.Contracts.dll
+C:\Users\BC\source\repos\WebApplication9\AdminArea\AdminArea.Web\bin\Debug\net6.0\refs\System.Diagnostics.Debug.dll
+C:\Users\BC\source\repos\WebApplication9\AdminArea\AdminArea.Web\bin\Debug\net6.0\refs\System.Diagnostics.DiagnosticSource.dll
+C:\Users\BC\source\repos\WebApplication9\AdminArea\AdminArea.Web\bin\Debug\net6.0\refs\System.Diagnostics.EventLog.dll
+C:\Users\BC\source\repos\WebApplication9\AdminArea\AdminArea.Web\bin\Debug\net6.0\refs\System.Diagnostics.FileVersionInfo.dll
+C:\Users\BC\source\repos\WebApplication9\AdminArea\AdminArea.Web\bin\Debug\net6.0\refs\System.Diagnostics.Process.dll
+C:\Users\BC\source\repos\WebApplication9\AdminArea\AdminArea.Web\bin\Debug\net6.0\refs\System.Diagnostics.StackTrace.dll
+C:\Users\BC\source\repos\WebApplication9\AdminArea\AdminArea.Web\bin\Debug\net6.0\refs\System.Diagnostics.TextWriterTraceListener.dll
+C:\Users\BC\source\repos\WebApplication9\AdminArea\AdminArea.Web\bin\Debug\net6.0\refs\System.Diagnostics.Tools.dll
+C:\Users\BC\source\repos\WebApplication9\AdminArea\AdminArea.Web\bin\Debug\net6.0\refs\System.Diagnostics.TraceSource.dll
+C:\Users\BC\source\repos\WebApplication9\AdminArea\AdminArea.Web\bin\Debug\net6.0\refs\System.Diagnostics.Tracing.dll
+C:\Users\BC\source\repos\WebApplication9\AdminArea\AdminArea.Web\bin\Debug\net6.0\refs\System.dll
+C:\Users\BC\source\repos\WebApplication9\AdminArea\AdminArea.Web\bin\Debug\net6.0\refs\System.Drawing.dll
+C:\Users\BC\source\repos\WebApplication9\AdminArea\AdminArea.Web\bin\Debug\net6.0\refs\System.Drawing.Primitives.dll
+C:\Users\BC\source\repos\WebApplication9\AdminArea\AdminArea.Web\bin\Debug\net6.0\refs\System.Dynamic.Runtime.dll
+C:\Users\BC\source\repos\WebApplication9\AdminArea\AdminArea.Web\bin\Debug\net6.0\refs\System.Formats.Asn1.dll
+C:\Users\BC\source\repos\WebApplication9\AdminArea\AdminArea.Web\bin\Debug\net6.0\refs\System.Globalization.Calendars.dll
+C:\Users\BC\source\repos\WebApplication9\AdminArea\AdminArea.Web\bin\Debug\net6.0\refs\System.Globalization.dll
+C:\Users\BC\source\repos\WebApplication9\AdminArea\AdminArea.Web\bin\Debug\net6.0\refs\System.Globalization.Extensions.dll
+C:\Users\BC\source\repos\WebApplication9\AdminArea\AdminArea.Web\bin\Debug\net6.0\refs\System.IO.Compression.Brotli.dll
+C:\Users\BC\source\repos\WebApplication9\AdminArea\AdminArea.Web\bin\Debug\net6.0\refs\System.IO.Compression.dll
+C:\Users\BC\source\repos\WebApplication9\AdminArea\AdminArea.Web\bin\Debug\net6.0\refs\System.IO.Compression.FileSystem.dll
+C:\Users\BC\source\repos\WebApplication9\AdminArea\AdminArea.Web\bin\Debug\net6.0\refs\System.IO.Compression.ZipFile.dll
+C:\Users\BC\source\repos\WebApplication9\AdminArea\AdminArea.Web\bin\Debug\net6.0\refs\System.IO.dll
+C:\Users\BC\source\repos\WebApplication9\AdminArea\AdminArea.Web\bin\Debug\net6.0\refs\System.IO.FileSystem.AccessControl.dll
+C:\Users\BC\source\repos\WebApplication9\AdminArea\AdminArea.Web\bin\Debug\net6.0\refs\System.IO.FileSystem.dll
+C:\Users\BC\source\repos\WebApplication9\AdminArea\AdminArea.Web\bin\Debug\net6.0\refs\System.IO.FileSystem.DriveInfo.dll
+C:\Users\BC\source\repos\WebApplication9\AdminArea\AdminArea.Web\bin\Debug\net6.0\refs\System.IO.FileSystem.Primitives.dll
+C:\Users\BC\source\repos\WebApplication9\AdminArea\AdminArea.Web\bin\Debug\net6.0\refs\System.IO.FileSystem.Watcher.dll
+C:\Users\BC\source\repos\WebApplication9\AdminArea\AdminArea.Web\bin\Debug\net6.0\refs\System.IO.IsolatedStorage.dll
+C:\Users\BC\source\repos\WebApplication9\AdminArea\AdminArea.Web\bin\Debug\net6.0\refs\System.IO.MemoryMappedFiles.dll
+C:\Users\BC\source\repos\WebApplication9\AdminArea\AdminArea.Web\bin\Debug\net6.0\refs\System.IO.Pipelines.dll
+C:\Users\BC\source\repos\WebApplication9\AdminArea\AdminArea.Web\bin\Debug\net6.0\refs\System.IO.Pipes.AccessControl.dll
+C:\Users\BC\source\repos\WebApplication9\AdminArea\AdminArea.Web\bin\Debug\net6.0\refs\System.IO.Pipes.dll
+C:\Users\BC\source\repos\WebApplication9\AdminArea\AdminArea.Web\bin\Debug\net6.0\refs\System.IO.UnmanagedMemoryStream.dll
+C:\Users\BC\source\repos\WebApplication9\AdminArea\AdminArea.Web\bin\Debug\net6.0\refs\System.Linq.dll
+C:\Users\BC\source\repos\WebApplication9\AdminArea\AdminArea.Web\bin\Debug\net6.0\refs\System.Linq.Expressions.dll
+C:\Users\BC\source\repos\WebApplication9\AdminArea\AdminArea.Web\bin\Debug\net6.0\refs\System.Linq.Parallel.dll
+C:\Users\BC\source\repos\WebApplication9\AdminArea\AdminArea.Web\bin\Debug\net6.0\refs\System.Linq.Queryable.dll
+C:\Users\BC\source\repos\WebApplication9\AdminArea\AdminArea.Web\bin\Debug\net6.0\refs\System.Memory.dll
+C:\Users\BC\source\repos\WebApplication9\AdminArea\AdminArea.Web\bin\Debug\net6.0\refs\System.Net.dll
+C:\Users\BC\source\repos\WebApplication9\AdminArea\AdminArea.Web\bin\Debug\net6.0\refs\System.Net.Http.dll
+C:\Users\BC\source\repos\WebApplication9\AdminArea\AdminArea.Web\bin\Debug\net6.0\refs\System.Net.Http.Json.dll
+C:\Users\BC\source\repos\WebApplication9\AdminArea\AdminArea.Web\bin\Debug\net6.0\refs\System.Net.HttpListener.dll
+C:\Users\BC\source\repos\WebApplication9\AdminArea\AdminArea.Web\bin\Debug\net6.0\refs\System.Net.Mail.dll
+C:\Users\BC\source\repos\WebApplication9\AdminArea\AdminArea.Web\bin\Debug\net6.0\refs\System.Net.NameResolution.dll
+C:\Users\BC\source\repos\WebApplication9\AdminArea\AdminArea.Web\bin\Debug\net6.0\refs\System.Net.NetworkInformation.dll
+C:\Users\BC\source\repos\WebApplication9\AdminArea\AdminArea.Web\bin\Debug\net6.0\refs\System.Net.Ping.dll
+C:\Users\BC\source\repos\WebApplication9\AdminArea\AdminArea.Web\bin\Debug\net6.0\refs\System.Net.Primitives.dll
+C:\Users\BC\source\repos\WebApplication9\AdminArea\AdminArea.Web\bin\Debug\net6.0\refs\System.Net.Requests.dll
+C:\Users\BC\source\repos\WebApplication9\AdminArea\AdminArea.Web\bin\Debug\net6.0\refs\System.Net.Security.dll
+C:\Users\BC\source\repos\WebApplication9\AdminArea\AdminArea.Web\bin\Debug\net6.0\refs\System.Net.ServicePoint.dll
+C:\Users\BC\source\repos\WebApplication9\AdminArea\AdminArea.Web\bin\Debug\net6.0\refs\System.Net.Sockets.dll
+C:\Users\BC\source\repos\WebApplication9\AdminArea\AdminArea.Web\bin\Debug\net6.0\refs\System.Net.WebClient.dll
+C:\Users\BC\source\repos\WebApplication9\AdminArea\AdminArea.Web\bin\Debug\net6.0\refs\System.Net.WebHeaderCollection.dll
+C:\Users\BC\source\repos\WebApplication9\AdminArea\AdminArea.Web\bin\Debug\net6.0\refs\System.Net.WebProxy.dll
+C:\Users\BC\source\repos\WebApplication9\AdminArea\AdminArea.Web\bin\Debug\net6.0\refs\System.Net.WebSockets.Client.dll
+C:\Users\BC\source\repos\WebApplication9\AdminArea\AdminArea.Web\bin\Debug\net6.0\refs\System.Net.WebSockets.dll
+C:\Users\BC\source\repos\WebApplication9\AdminArea\AdminArea.Web\bin\Debug\net6.0\refs\System.Numerics.dll
+C:\Users\BC\source\repos\WebApplication9\AdminArea\AdminArea.Web\bin\Debug\net6.0\refs\System.Numerics.Vectors.dll
+C:\Users\BC\source\repos\WebApplication9\AdminArea\AdminArea.Web\bin\Debug\net6.0\refs\System.ObjectModel.dll
+C:\Users\BC\source\repos\WebApplication9\AdminArea\AdminArea.Web\bin\Debug\net6.0\refs\System.Reflection.DispatchProxy.dll
+C:\Users\BC\source\repos\WebApplication9\AdminArea\AdminArea.Web\bin\Debug\net6.0\refs\System.Reflection.dll
+C:\Users\BC\source\repos\WebApplication9\AdminArea\AdminArea.Web\bin\Debug\net6.0\refs\System.Reflection.Emit.dll
+C:\Users\BC\source\repos\WebApplication9\AdminArea\AdminArea.Web\bin\Debug\net6.0\refs\System.Reflection.Emit.ILGeneration.dll
+C:\Users\BC\source\repos\WebApplication9\AdminArea\AdminArea.Web\bin\Debug\net6.0\refs\System.Reflection.Emit.Lightweight.dll
+C:\Users\BC\source\repos\WebApplication9\AdminArea\AdminArea.Web\bin\Debug\net6.0\refs\System.Reflection.Extensions.dll
+C:\Users\BC\source\repos\WebApplication9\AdminArea\AdminArea.Web\bin\Debug\net6.0\refs\System.Reflection.Metadata.dll
+C:\Users\BC\source\repos\WebApplication9\AdminArea\AdminArea.Web\bin\Debug\net6.0\refs\System.Reflection.Primitives.dll
+C:\Users\BC\source\repos\WebApplication9\AdminArea\AdminArea.Web\bin\Debug\net6.0\refs\System.Reflection.TypeExtensions.dll
+C:\Users\BC\source\repos\WebApplication9\AdminArea\AdminArea.Web\bin\Debug\net6.0\refs\System.Resources.Reader.dll
+C:\Users\BC\source\repos\WebApplication9\AdminArea\AdminArea.Web\bin\Debug\net6.0\refs\System.Resources.ResourceManager.dll
+C:\Users\BC\source\repos\WebApplication9\AdminArea\AdminArea.Web\bin\Debug\net6.0\refs\System.Resources.Writer.dll
+C:\Users\BC\source\repos\WebApplication9\AdminArea\AdminArea.Web\bin\Debug\net6.0\refs\System.Runtime.CompilerServices.Unsafe.dll
+C:\Users\BC\source\repos\WebApplication9\AdminArea\AdminArea.Web\bin\Debug\net6.0\refs\System.Runtime.CompilerServices.VisualC.dll
+C:\Users\BC\source\repos\WebApplication9\AdminArea\AdminArea.Web\bin\Debug\net6.0\refs\System.Runtime.dll
+C:\Users\BC\source\repos\WebApplication9\AdminArea\AdminArea.Web\bin\Debug\net6.0\refs\System.Runtime.Extensions.dll
+C:\Users\BC\source\repos\WebApplication9\AdminArea\AdminArea.Web\bin\Debug\net6.0\refs\System.Runtime.Handles.dll
+C:\Users\BC\source\repos\WebApplication9\AdminArea\AdminArea.Web\bin\Debug\net6.0\refs\System.Runtime.InteropServices.dll
+C:\Users\BC\source\repos\WebApplication9\AdminArea\AdminArea.Web\bin\Debug\net6.0\refs\System.Runtime.InteropServices.RuntimeInformation.dll
+C:\Users\BC\source\repos\WebApplication9\AdminArea\AdminArea.Web\bin\Debug\net6.0\refs\System.Runtime.Intrinsics.dll
+C:\Users\BC\source\repos\WebApplication9\AdminArea\AdminArea.Web\bin\Debug\net6.0\refs\System.Runtime.Loader.dll
+C:\Users\BC\source\repos\WebApplication9\AdminArea\AdminArea.Web\bin\Debug\net6.0\refs\System.Runtime.Numerics.dll
+C:\Users\BC\source\repos\WebApplication9\AdminArea\AdminArea.Web\bin\Debug\net6.0\refs\System.Runtime.Serialization.dll
+C:\Users\BC\source\repos\WebApplication9\AdminArea\AdminArea.Web\bin\Debug\net6.0\refs\System.Runtime.Serialization.Formatters.dll
+C:\Users\BC\source\repos\WebApplication9\AdminArea\AdminArea.Web\bin\Debug\net6.0\refs\System.Runtime.Serialization.Json.dll
+C:\Users\BC\source\repos\WebApplication9\AdminArea\AdminArea.Web\bin\Debug\net6.0\refs\System.Runtime.Serialization.Primitives.dll
+C:\Users\BC\source\repos\WebApplication9\AdminArea\AdminArea.Web\bin\Debug\net6.0\refs\System.Runtime.Serialization.Xml.dll
+C:\Users\BC\source\repos\WebApplication9\AdminArea\AdminArea.Web\bin\Debug\net6.0\refs\System.Security.AccessControl.dll
+C:\Users\BC\source\repos\WebApplication9\AdminArea\AdminArea.Web\bin\Debug\net6.0\refs\System.Security.Claims.dll
+C:\Users\BC\source\repos\WebApplication9\AdminArea\AdminArea.Web\bin\Debug\net6.0\refs\System.Security.Cryptography.Algorithms.dll
+C:\Users\BC\source\repos\WebApplication9\AdminArea\AdminArea.Web\bin\Debug\net6.0\refs\System.Security.Cryptography.Cng.dll
+C:\Users\BC\source\repos\WebApplication9\AdminArea\AdminArea.Web\bin\Debug\net6.0\refs\System.Security.Cryptography.Csp.dll
+C:\Users\BC\source\repos\WebApplication9\AdminArea\AdminArea.Web\bin\Debug\net6.0\refs\System.Security.Cryptography.Encoding.dll
+C:\Users\BC\source\repos\WebApplication9\AdminArea\AdminArea.Web\bin\Debug\net6.0\refs\System.Security.Cryptography.OpenSsl.dll
+C:\Users\BC\source\repos\WebApplication9\AdminArea\AdminArea.Web\bin\Debug\net6.0\refs\System.Security.Cryptography.Primitives.dll
+C:\Users\BC\source\repos\WebApplication9\AdminArea\AdminArea.Web\bin\Debug\net6.0\refs\System.Security.Cryptography.X509Certificates.dll
+C:\Users\BC\source\repos\WebApplication9\AdminArea\AdminArea.Web\bin\Debug\net6.0\refs\System.Security.Cryptography.Xml.dll
+C:\Users\BC\source\repos\WebApplication9\AdminArea\AdminArea.Web\bin\Debug\net6.0\refs\System.Security.dll
+C:\Users\BC\source\repos\WebApplication9\AdminArea\AdminArea.Web\bin\Debug\net6.0\refs\System.Security.Principal.dll
+C:\Users\BC\source\repos\WebApplication9\AdminArea\AdminArea.Web\bin\Debug\net6.0\refs\System.Security.Principal.Windows.dll
+C:\Users\BC\source\repos\WebApplication9\AdminArea\AdminArea.Web\bin\Debug\net6.0\refs\System.Security.SecureString.dll
+C:\Users\BC\source\repos\WebApplication9\AdminArea\AdminArea.Web\bin\Debug\net6.0\refs\System.ServiceModel.Web.dll
+C:\Users\BC\source\repos\WebApplication9\AdminArea\AdminArea.Web\bin\Debug\net6.0\refs\System.ServiceProcess.dll
+C:\Users\BC\source\repos\WebApplication9\AdminArea\AdminArea.Web\bin\Debug\net6.0\refs\System.Text.Encoding.CodePages.dll
+C:\Users\BC\source\repos\WebApplication9\AdminArea\AdminArea.Web\bin\Debug\net6.0\refs\System.Text.Encoding.dll
+C:\Users\BC\source\repos\WebApplication9\AdminArea\AdminArea.Web\bin\Debug\net6.0\refs\System.Text.Encoding.Extensions.dll
+C:\Users\BC\source\repos\WebApplication9\AdminArea\AdminArea.Web\bin\Debug\net6.0\refs\System.Text.RegularExpressions.dll
+C:\Users\BC\source\repos\WebApplication9\AdminArea\AdminArea.Web\bin\Debug\net6.0\refs\System.Threading.Channels.dll
+C:\Users\BC\source\repos\WebApplication9\AdminArea\AdminArea.Web\bin\Debug\net6.0\refs\System.Threading.dll
+C:\Users\BC\source\repos\WebApplication9\AdminArea\AdminArea.Web\bin\Debug\net6.0\refs\System.Threading.Overlapped.dll
+C:\Users\BC\source\repos\WebApplication9\AdminArea\AdminArea.Web\bin\Debug\net6.0\refs\System.Threading.Tasks.Dataflow.dll
+C:\Users\BC\source\repos\WebApplication9\AdminArea\AdminArea.Web\bin\Debug\net6.0\refs\System.Threading.Tasks.dll
+C:\Users\BC\source\repos\WebApplication9\AdminArea\AdminArea.Web\bin\Debug\net6.0\refs\System.Threading.Tasks.Extensions.dll
+C:\Users\BC\source\repos\WebApplication9\AdminArea\AdminArea.Web\bin\Debug\net6.0\refs\System.Threading.Tasks.Parallel.dll
+C:\Users\BC\source\repos\WebApplication9\AdminArea\AdminArea.Web\bin\Debug\net6.0\refs\System.Threading.Thread.dll
+C:\Users\BC\source\repos\WebApplication9\AdminArea\AdminArea.Web\bin\Debug\net6.0\refs\System.Threading.ThreadPool.dll
+C:\Users\BC\source\repos\WebApplication9\AdminArea\AdminArea.Web\bin\Debug\net6.0\refs\System.Threading.Timer.dll
+C:\Users\BC\source\repos\WebApplication9\AdminArea\AdminArea.Web\bin\Debug\net6.0\refs\System.Transactions.dll
+C:\Users\BC\source\repos\WebApplication9\AdminArea\AdminArea.Web\bin\Debug\net6.0\refs\System.Transactions.Local.dll
+C:\Users\BC\source\repos\WebApplication9\AdminArea\AdminArea.Web\bin\Debug\net6.0\refs\System.ValueTuple.dll
+C:\Users\BC\source\repos\WebApplication9\AdminArea\AdminArea.Web\bin\Debug\net6.0\refs\System.Web.dll
+C:\Users\BC\source\repos\WebApplication9\AdminArea\AdminArea.Web\bin\Debug\net6.0\refs\System.Web.HttpUtility.dll
+C:\Users\BC\source\repos\WebApplication9\AdminArea\AdminArea.Web\bin\Debug\net6.0\refs\System.Windows.dll
+C:\Users\BC\source\repos\WebApplication9\AdminArea\AdminArea.Web\bin\Debug\net6.0\refs\System.Xml.dll
+C:\Users\BC\source\repos\WebApplication9\AdminArea\AdminArea.Web\bin\Debug\net6.0\refs\System.Xml.Linq.dll
+C:\Users\BC\source\repos\WebApplication9\AdminArea\AdminArea.Web\bin\Debug\net6.0\refs\System.Xml.ReaderWriter.dll
+C:\Users\BC\source\repos\WebApplication9\AdminArea\AdminArea.Web\bin\Debug\net6.0\refs\System.Xml.Serialization.dll
+C:\Users\BC\source\repos\WebApplication9\AdminArea\AdminArea.Web\bin\Debug\net6.0\refs\System.Xml.XDocument.dll
+C:\Users\BC\source\repos\WebApplication9\AdminArea\AdminArea.Web\bin\Debug\net6.0\refs\System.Xml.XmlDocument.dll
+C:\Users\BC\source\repos\WebApplication9\AdminArea\AdminArea.Web\bin\Debug\net6.0\refs\System.Xml.XmlSerializer.dll
+C:\Users\BC\source\repos\WebApplication9\AdminArea\AdminArea.Web\bin\Debug\net6.0\refs\System.Xml.XPath.dll
+C:\Users\BC\source\repos\WebApplication9\AdminArea\AdminArea.Web\bin\Debug\net6.0\refs\System.Xml.XPath.XDocument.dll
+C:\Users\BC\source\repos\WebApplication9\AdminArea\AdminArea.Web\bin\Debug\net6.0\refs\WindowsBase.dll
+C:\Users\BC\source\repos\WebApplication9\AdminArea\AdminArea.Web\bin\Debug\net6.0\Azure.Core.dll
+C:\Users\BC\source\repos\WebApplication9\AdminArea\AdminArea.Web\bin\Debug\net6.0\Azure.Identity.dll
+C:\Users\BC\source\repos\WebApplication9\AdminArea\AdminArea.Web\bin\Debug\net6.0\Dapper.dll
+C:\Users\BC\source\repos\WebApplication9\AdminArea\AdminArea.Web\bin\Debug\net6.0\EPPlus.dll
+C:\Users\BC\source\repos\WebApplication9\AdminArea\AdminArea.Web\bin\Debug\net6.0\FastMember.dll
+C:\Users\BC\source\repos\WebApplication9\AdminArea\AdminArea.Web\bin\Debug\net6.0\FluentMigrator.dll
+C:\Users\BC\source\repos\WebApplication9\AdminArea\AdminArea.Web\bin\Debug\net6.0\FluentMigrator.Abstractions.dll
+C:\Users\BC\source\repos\WebApplication9\AdminArea\AdminArea.Web\bin\Debug\net6.0\FluentMigrator.Extensions.Oracle.dll
+C:\Users\BC\source\repos\WebApplication9\AdminArea\AdminArea.Web\bin\Debug\net6.0\FluentMigrator.Extensions.Postgres.dll
+C:\Users\BC\source\repos\WebApplication9\AdminArea\AdminArea.Web\bin\Debug\net6.0\FluentMigrator.Extensions.SqlAnywhere.dll
+C:\Users\BC\source\repos\WebApplication9\AdminArea\AdminArea.Web\bin\Debug\net6.0\FluentMigrator.Extensions.SqlServer.dll
+C:\Users\BC\source\repos\WebApplication9\AdminArea\AdminArea.Web\bin\Debug\net6.0\FluentMigrator.Runner.dll
+C:\Users\BC\source\repos\WebApplication9\AdminArea\AdminArea.Web\bin\Debug\net6.0\FluentMigrator.Runner.Core.dll
+C:\Users\BC\source\repos\WebApplication9\AdminArea\AdminArea.Web\bin\Debug\net6.0\FluentMigrator.Runner.Db2.dll
+C:\Users\BC\source\repos\WebApplication9\AdminArea\AdminArea.Web\bin\Debug\net6.0\FluentMigrator.Runner.Firebird.dll
+C:\Users\BC\source\repos\WebApplication9\AdminArea\AdminArea.Web\bin\Debug\net6.0\FluentMigrator.Runner.Hana.dll
+C:\Users\BC\source\repos\WebApplication9\AdminArea\AdminArea.Web\bin\Debug\net6.0\FluentMigrator.Runner.MySql.dll
+C:\Users\BC\source\repos\WebApplication9\AdminArea\AdminArea.Web\bin\Debug\net6.0\FluentMigrator.Runner.Oracle.dll
+C:\Users\BC\source\repos\WebApplication9\AdminArea\AdminArea.Web\bin\Debug\net6.0\FluentMigrator.Runner.Postgres.dll
+C:\Users\BC\source\repos\WebApplication9\AdminArea\AdminArea.Web\bin\Debug\net6.0\FluentMigrator.Runner.Redshift.dll
+C:\Users\BC\source\repos\WebApplication9\AdminArea\AdminArea.Web\bin\Debug\net6.0\FluentMigrator.Runner.SqlAnywhere.dll
+C:\Users\BC\source\repos\WebApplication9\AdminArea\AdminArea.Web\bin\Debug\net6.0\FluentMigrator.Runner.SQLite.dll
+C:\Users\BC\source\repos\WebApplication9\AdminArea\AdminArea.Web\bin\Debug\net6.0\FluentMigrator.Runner.SqlServer.dll
+C:\Users\BC\source\repos\WebApplication9\AdminArea\AdminArea.Web\bin\Debug\net6.0\FluentMigrator.Runner.SqlServerCe.dll
+C:\Users\BC\source\repos\WebApplication9\AdminArea\AdminArea.Web\bin\Debug\net6.0\System.Data.SqlServerCe.dll
+C:\Users\BC\source\repos\WebApplication9\AdminArea\AdminArea.Web\bin\Debug\net6.0\MailKit.dll
+C:\Users\BC\source\repos\WebApplication9\AdminArea\AdminArea.Web\bin\Debug\net6.0\Microsoft.AspNetCore.JsonPatch.dll
+C:\Users\BC\source\repos\WebApplication9\AdminArea\AdminArea.Web\bin\Debug\net6.0\Microsoft.AspNetCore.Mvc.NewtonsoftJson.dll
+C:\Users\BC\source\repos\WebApplication9\AdminArea\AdminArea.Web\bin\Debug\net6.0\Microsoft.AspNetCore.Mvc.Razor.Extensions.dll
+C:\Users\BC\source\repos\WebApplication9\AdminArea\AdminArea.Web\bin\Debug\net6.0\Microsoft.AspNetCore.Mvc.Razor.RuntimeCompilation.dll
+C:\Users\BC\source\repos\WebApplication9\AdminArea\AdminArea.Web\bin\Debug\net6.0\Microsoft.AspNetCore.Razor.Language.dll
+C:\Users\BC\source\repos\WebApplication9\AdminArea\AdminArea.Web\bin\Debug\net6.0\Microsoft.Bcl.AsyncInterfaces.dll
+C:\Users\BC\source\repos\WebApplication9\AdminArea\AdminArea.Web\bin\Debug\net6.0\Microsoft.CodeAnalysis.dll
+C:\Users\BC\source\repos\WebApplication9\AdminArea\AdminArea.Web\bin\Debug\net6.0\Microsoft.CodeAnalysis.CSharp.dll
+C:\Users\BC\source\repos\WebApplication9\AdminArea\AdminArea.Web\bin\Debug\net6.0\Microsoft.CodeAnalysis.Razor.dll
+C:\Users\BC\source\repos\WebApplication9\AdminArea\AdminArea.Web\bin\Debug\net6.0\Microsoft.Data.SqlClient.dll
+C:\Users\BC\source\repos\WebApplication9\AdminArea\AdminArea.Web\bin\Debug\net6.0\Microsoft.Data.Sqlite.dll
+C:\Users\BC\source\repos\WebApplication9\AdminArea\AdminArea.Web\bin\Debug\net6.0\Microsoft.Extensions.Caching.Memory.dll
+C:\Users\BC\source\repos\WebApplication9\AdminArea\AdminArea.Web\bin\Debug\net6.0\Microsoft.Extensions.DependencyModel.dll
+C:\Users\BC\source\repos\WebApplication9\AdminArea\AdminArea.Web\bin\Debug\net6.0\Microsoft.Identity.Client.dll
+C:\Users\BC\source\repos\WebApplication9\AdminArea\AdminArea.Web\bin\Debug\net6.0\Microsoft.Identity.Client.Extensions.Msal.dll
+C:\Users\BC\source\repos\WebApplication9\AdminArea\AdminArea.Web\bin\Debug\net6.0\Microsoft.IdentityModel.Abstractions.dll
+C:\Users\BC\source\repos\WebApplication9\AdminArea\AdminArea.Web\bin\Debug\net6.0\Microsoft.IdentityModel.JsonWebTokens.dll
+C:\Users\BC\source\repos\WebApplication9\AdminArea\AdminArea.Web\bin\Debug\net6.0\Microsoft.IdentityModel.Logging.dll
+C:\Users\BC\source\repos\WebApplication9\AdminArea\AdminArea.Web\bin\Debug\net6.0\Microsoft.IdentityModel.Protocols.dll
+C:\Users\BC\source\repos\WebApplication9\AdminArea\AdminArea.Web\bin\Debug\net6.0\Microsoft.IdentityModel.Protocols.OpenIdConnect.dll
+C:\Users\BC\source\repos\WebApplication9\AdminArea\AdminArea.Web\bin\Debug\net6.0\Microsoft.IdentityModel.Tokens.dll
+C:\Users\BC\source\repos\WebApplication9\AdminArea\AdminArea.Web\bin\Debug\net6.0\Microsoft.SqlServer.Server.dll
+C:\Users\BC\source\repos\WebApplication9\AdminArea\AdminArea.Web\bin\Debug\net6.0\Microsoft.Win32.SystemEvents.dll
+C:\Users\BC\source\repos\WebApplication9\AdminArea\AdminArea.Web\bin\Debug\net6.0\MimeKit.dll
+C:\Users\BC\source\repos\WebApplication9\AdminArea\AdminArea.Web\bin\Debug\net6.0\nClam.dll
+C:\Users\BC\source\repos\WebApplication9\AdminArea\AdminArea.Web\bin\Debug\net6.0\Newtonsoft.Json.dll
+C:\Users\BC\source\repos\WebApplication9\AdminArea\AdminArea.Web\bin\Debug\net6.0\Newtonsoft.Json.Bson.dll
+C:\Users\BC\source\repos\WebApplication9\AdminArea\AdminArea.Web\bin\Debug\net6.0\NUglify.dll
+C:\Users\BC\source\repos\WebApplication9\AdminArea\AdminArea.Web\bin\Debug\net6.0\BouncyCastle.Crypto.dll
+C:\Users\BC\source\repos\WebApplication9\AdminArea\AdminArea.Web\bin\Debug\net6.0\Serenity.Assets.dll
+C:\Users\BC\source\repos\WebApplication9\AdminArea\AdminArea.Web\bin\Debug\net6.0\Serenity.Extensions.dll
+C:\Users\BC\source\repos\WebApplication9\AdminArea\AdminArea.Web\bin\Debug\net6.0\Serenity.Net.Core.dll
+C:\Users\BC\source\repos\WebApplication9\AdminArea\AdminArea.Web\bin\Debug\net6.0\Serenity.Net.Data.dll
+C:\Users\BC\source\repos\WebApplication9\AdminArea\AdminArea.Web\bin\Debug\net6.0\Serenity.Net.Entity.dll
+C:\Users\BC\source\repos\WebApplication9\AdminArea\AdminArea.Web\bin\Debug\net6.0\Serenity.Net.Services.dll
+C:\Users\BC\source\repos\WebApplication9\AdminArea\AdminArea.Web\bin\Debug\net6.0\Serenity.Net.Web.dll
+C:\Users\BC\source\repos\WebApplication9\AdminArea\AdminArea.Web\bin\Debug\net6.0\Serenity.Scripts.dll
+C:\Users\BC\source\repos\WebApplication9\AdminArea\AdminArea.Web\bin\Debug\net6.0\SixLabors.ImageSharp.dll
+C:\Users\BC\source\repos\WebApplication9\AdminArea\AdminArea.Web\bin\Debug\net6.0\SQLitePCLRaw.batteries_v2.dll
+C:\Users\BC\source\repos\WebApplication9\AdminArea\AdminArea.Web\bin\Debug\net6.0\SQLitePCLRaw.core.dll
+C:\Users\BC\source\repos\WebApplication9\AdminArea\AdminArea.Web\bin\Debug\net6.0\SQLitePCLRaw.provider.e_sqlite3.dll
+C:\Users\BC\source\repos\WebApplication9\AdminArea\AdminArea.Web\bin\Debug\net6.0\System.Configuration.ConfigurationManager.dll
+C:\Users\BC\source\repos\WebApplication9\AdminArea\AdminArea.Web\bin\Debug\net6.0\System.Drawing.Common.dll
+C:\Users\BC\source\repos\WebApplication9\AdminArea\AdminArea.Web\bin\Debug\net6.0\System.IdentityModel.Tokens.Jwt.dll
+C:\Users\BC\source\repos\WebApplication9\AdminArea\AdminArea.Web\bin\Debug\net6.0\System.Memory.Data.dll
+C:\Users\BC\source\repos\WebApplication9\AdminArea\AdminArea.Web\bin\Debug\net6.0\System.Runtime.Caching.dll
+C:\Users\BC\source\repos\WebApplication9\AdminArea\AdminArea.Web\bin\Debug\net6.0\System.Security.Cryptography.ProtectedData.dll
+C:\Users\BC\source\repos\WebApplication9\AdminArea\AdminArea.Web\bin\Debug\net6.0\System.Security.Permissions.dll
+C:\Users\BC\source\repos\WebApplication9\AdminArea\AdminArea.Web\bin\Debug\net6.0\System.Windows.Extensions.dll
+C:\Users\BC\source\repos\WebApplication9\AdminArea\AdminArea.Web\bin\Debug\net6.0\System.Xml.XPath.XmlDocument.dll
+C:\Users\BC\source\repos\WebApplication9\AdminArea\AdminArea.Web\bin\Debug\net6.0\de-DE\FluentMigrator.Abstractions.resources.dll
+C:\Users\BC\source\repos\WebApplication9\AdminArea\AdminArea.Web\bin\Debug\net6.0\cs\Microsoft.CodeAnalysis.resources.dll
+C:\Users\BC\source\repos\WebApplication9\AdminArea\AdminArea.Web\bin\Debug\net6.0\de\Microsoft.CodeAnalysis.resources.dll
+C:\Users\BC\source\repos\WebApplication9\AdminArea\AdminArea.Web\bin\Debug\net6.0\es\Microsoft.CodeAnalysis.resources.dll
+C:\Users\BC\source\repos\WebApplication9\AdminArea\AdminArea.Web\bin\Debug\net6.0\fr\Microsoft.CodeAnalysis.resources.dll
+C:\Users\BC\source\repos\WebApplication9\AdminArea\AdminArea.Web\bin\Debug\net6.0\it\Microsoft.CodeAnalysis.resources.dll
+C:\Users\BC\source\repos\WebApplication9\AdminArea\AdminArea.Web\bin\Debug\net6.0\ja\Microsoft.CodeAnalysis.resources.dll
+C:\Users\BC\source\repos\WebApplication9\AdminArea\AdminArea.Web\bin\Debug\net6.0\ko\Microsoft.CodeAnalysis.resources.dll
+C:\Users\BC\source\repos\WebApplication9\AdminArea\AdminArea.Web\bin\Debug\net6.0\pl\Microsoft.CodeAnalysis.resources.dll
+C:\Users\BC\source\repos\WebApplication9\AdminArea\AdminArea.Web\bin\Debug\net6.0\pt-BR\Microsoft.CodeAnalysis.resources.dll
+C:\Users\BC\source\repos\WebApplication9\AdminArea\AdminArea.Web\bin\Debug\net6.0\ru\Microsoft.CodeAnalysis.resources.dll
+C:\Users\BC\source\repos\WebApplication9\AdminArea\AdminArea.Web\bin\Debug\net6.0\tr\Microsoft.CodeAnalysis.resources.dll
+C:\Users\BC\source\repos\WebApplication9\AdminArea\AdminArea.Web\bin\Debug\net6.0\zh-Hans\Microsoft.CodeAnalysis.resources.dll
+C:\Users\BC\source\repos\WebApplication9\AdminArea\AdminArea.Web\bin\Debug\net6.0\zh-Hant\Microsoft.CodeAnalysis.resources.dll
+C:\Users\BC\source\repos\WebApplication9\AdminArea\AdminArea.Web\bin\Debug\net6.0\cs\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\Users\BC\source\repos\WebApplication9\AdminArea\AdminArea.Web\bin\Debug\net6.0\de\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\Users\BC\source\repos\WebApplication9\AdminArea\AdminArea.Web\bin\Debug\net6.0\es\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\Users\BC\source\repos\WebApplication9\AdminArea\AdminArea.Web\bin\Debug\net6.0\fr\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\Users\BC\source\repos\WebApplication9\AdminArea\AdminArea.Web\bin\Debug\net6.0\it\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\Users\BC\source\repos\WebApplication9\AdminArea\AdminArea.Web\bin\Debug\net6.0\ja\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\Users\BC\source\repos\WebApplication9\AdminArea\AdminArea.Web\bin\Debug\net6.0\ko\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\Users\BC\source\repos\WebApplication9\AdminArea\AdminArea.Web\bin\Debug\net6.0\pl\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\Users\BC\source\repos\WebApplication9\AdminArea\AdminArea.Web\bin\Debug\net6.0\pt-BR\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\Users\BC\source\repos\WebApplication9\AdminArea\AdminArea.Web\bin\Debug\net6.0\ru\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\Users\BC\source\repos\WebApplication9\AdminArea\AdminArea.Web\bin\Debug\net6.0\tr\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\Users\BC\source\repos\WebApplication9\AdminArea\AdminArea.Web\bin\Debug\net6.0\zh-Hans\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\Users\BC\source\repos\WebApplication9\AdminArea\AdminArea.Web\bin\Debug\net6.0\zh-Hant\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\Users\BC\source\repos\WebApplication9\AdminArea\AdminArea.Web\bin\Debug\net6.0\runtimes\unix\lib\net6.0\Microsoft.Data.SqlClient.dll
+C:\Users\BC\source\repos\WebApplication9\AdminArea\AdminArea.Web\bin\Debug\net6.0\runtimes\win\lib\net6.0\Microsoft.Data.SqlClient.dll
+C:\Users\BC\source\repos\WebApplication9\AdminArea\AdminArea.Web\bin\Debug\net6.0\runtimes\win-arm\native\Microsoft.Data.SqlClient.SNI.dll
+C:\Users\BC\source\repos\WebApplication9\AdminArea\AdminArea.Web\bin\Debug\net6.0\runtimes\win-arm64\native\Microsoft.Data.SqlClient.SNI.dll
+C:\Users\BC\source\repos\WebApplication9\AdminArea\AdminArea.Web\bin\Debug\net6.0\runtimes\win-x64\native\Microsoft.Data.SqlClient.SNI.dll
+C:\Users\BC\source\repos\WebApplication9\AdminArea\AdminArea.Web\bin\Debug\net6.0\runtimes\win-x86\native\Microsoft.Data.SqlClient.SNI.dll
+C:\Users\BC\source\repos\WebApplication9\AdminArea\AdminArea.Web\bin\Debug\net6.0\runtimes\win\lib\net6.0\Microsoft.Win32.SystemEvents.dll
+C:\Users\BC\source\repos\WebApplication9\AdminArea\AdminArea.Web\bin\Debug\net6.0\runtimes\alpine-arm\native\libe_sqlite3.so
+C:\Users\BC\source\repos\WebApplication9\AdminArea\AdminArea.Web\bin\Debug\net6.0\runtimes\alpine-arm64\native\libe_sqlite3.so
+C:\Users\BC\source\repos\WebApplication9\AdminArea\AdminArea.Web\bin\Debug\net6.0\runtimes\alpine-x64\native\libe_sqlite3.so
+C:\Users\BC\source\repos\WebApplication9\AdminArea\AdminArea.Web\bin\Debug\net6.0\runtimes\browser-wasm\nativeassets\net6.0\e_sqlite3.a
+C:\Users\BC\source\repos\WebApplication9\AdminArea\AdminArea.Web\bin\Debug\net6.0\runtimes\linux-arm\native\libe_sqlite3.so
+C:\Users\BC\source\repos\WebApplication9\AdminArea\AdminArea.Web\bin\Debug\net6.0\runtimes\linux-arm64\native\libe_sqlite3.so
+C:\Users\BC\source\repos\WebApplication9\AdminArea\AdminArea.Web\bin\Debug\net6.0\runtimes\linux-armel\native\libe_sqlite3.so
+C:\Users\BC\source\repos\WebApplication9\AdminArea\AdminArea.Web\bin\Debug\net6.0\runtimes\linux-mips64\native\libe_sqlite3.so
+C:\Users\BC\source\repos\WebApplication9\AdminArea\AdminArea.Web\bin\Debug\net6.0\runtimes\linux-musl-arm\native\libe_sqlite3.so
+C:\Users\BC\source\repos\WebApplication9\AdminArea\AdminArea.Web\bin\Debug\net6.0\runtimes\linux-musl-arm64\native\libe_sqlite3.so
+C:\Users\BC\source\repos\WebApplication9\AdminArea\AdminArea.Web\bin\Debug\net6.0\runtimes\linux-musl-x64\native\libe_sqlite3.so
+C:\Users\BC\source\repos\WebApplication9\AdminArea\AdminArea.Web\bin\Debug\net6.0\runtimes\linux-s390x\native\libe_sqlite3.so
+C:\Users\BC\source\repos\WebApplication9\AdminArea\AdminArea.Web\bin\Debug\net6.0\runtimes\linux-x64\native\libe_sqlite3.so
+C:\Users\BC\source\repos\WebApplication9\AdminArea\AdminArea.Web\bin\Debug\net6.0\runtimes\linux-x86\native\libe_sqlite3.so
+C:\Users\BC\source\repos\WebApplication9\AdminArea\AdminArea.Web\bin\Debug\net6.0\runtimes\maccatalyst-arm64\native\libe_sqlite3.dylib
+C:\Users\BC\source\repos\WebApplication9\AdminArea\AdminArea.Web\bin\Debug\net6.0\runtimes\maccatalyst-x64\native\libe_sqlite3.dylib
+C:\Users\BC\source\repos\WebApplication9\AdminArea\AdminArea.Web\bin\Debug\net6.0\runtimes\osx-arm64\native\libe_sqlite3.dylib
+C:\Users\BC\source\repos\WebApplication9\AdminArea\AdminArea.Web\bin\Debug\net6.0\runtimes\osx-x64\native\libe_sqlite3.dylib
+C:\Users\BC\source\repos\WebApplication9\AdminArea\AdminArea.Web\bin\Debug\net6.0\runtimes\win-arm\native\e_sqlite3.dll
+C:\Users\BC\source\repos\WebApplication9\AdminArea\AdminArea.Web\bin\Debug\net6.0\runtimes\win-arm64\native\e_sqlite3.dll
+C:\Users\BC\source\repos\WebApplication9\AdminArea\AdminArea.Web\bin\Debug\net6.0\runtimes\win-x64\native\e_sqlite3.dll
+C:\Users\BC\source\repos\WebApplication9\AdminArea\AdminArea.Web\bin\Debug\net6.0\runtimes\win-x86\native\e_sqlite3.dll
+C:\Users\BC\source\repos\WebApplication9\AdminArea\AdminArea.Web\bin\Debug\net6.0\runtimes\unix\lib\net6.0\System.Drawing.Common.dll
+C:\Users\BC\source\repos\WebApplication9\AdminArea\AdminArea.Web\bin\Debug\net6.0\runtimes\win\lib\net6.0\System.Drawing.Common.dll
+C:\Users\BC\source\repos\WebApplication9\AdminArea\AdminArea.Web\bin\Debug\net6.0\runtimes\win\lib\net6.0\System.Runtime.Caching.dll
+C:\Users\BC\source\repos\WebApplication9\AdminArea\AdminArea.Web\bin\Debug\net6.0\runtimes\win\lib\net6.0\System.Security.Cryptography.ProtectedData.dll
+C:\Users\BC\source\repos\WebApplication9\AdminArea\AdminArea.Web\bin\Debug\net6.0\runtimes\win\lib\net6.0\System.Windows.Extensions.dll
+C:\Users\BC\source\repos\WebApplication9\AdminArea\AdminArea.Web\obj\Debug\net6.0\AdminArea.Web.csproj.AssemblyReference.cache
+C:\Users\BC\source\repos\WebApplication9\AdminArea\AdminArea.Web\obj\Debug\net6.0\AdminArea.Web.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\BC\source\repos\WebApplication9\AdminArea\AdminArea.Web\obj\Debug\net6.0\AdminArea.Web.AssemblyInfoInputs.cache
+C:\Users\BC\source\repos\WebApplication9\AdminArea\AdminArea.Web\obj\Debug\net6.0\AdminArea.Web.AssemblyInfo.cs
+C:\Users\BC\source\repos\WebApplication9\AdminArea\AdminArea.Web\obj\Debug\net6.0\AdminArea.Web.csproj.CoreCompileInputs.cache
+C:\Users\BC\source\repos\WebApplication9\AdminArea\AdminArea.Web\obj\Debug\net6.0\AdminArea.Web.MvcApplicationPartsAssemblyInfo.cs
+C:\Users\BC\source\repos\WebApplication9\AdminArea\AdminArea.Web\obj\Debug\net6.0\AdminArea.Web.MvcApplicationPartsAssemblyInfo.cache
+C:\Users\BC\source\repos\WebApplication9\AdminArea\AdminArea.Web\obj\Debug\net6.0\AdminArea.Web.RazorAssemblyInfo.cache
+C:\Users\BC\source\repos\WebApplication9\AdminArea\AdminArea.Web\obj\Debug\net6.0\AdminArea.Web.RazorAssemblyInfo.cs
+C:\Users\BC\source\repos\WebApplication9\AdminArea\AdminArea.Web\obj\Debug\net6.0\staticwebassets\msbuild.AdminArea.Web.Microsoft.AspNetCore.StaticWebAssets.props
+C:\Users\BC\source\repos\WebApplication9\AdminArea\AdminArea.Web\obj\Debug\net6.0\staticwebassets\msbuild.build.AdminArea.Web.props
+C:\Users\BC\source\repos\WebApplication9\AdminArea\AdminArea.Web\obj\Debug\net6.0\staticwebassets\msbuild.buildMultiTargeting.AdminArea.Web.props
+C:\Users\BC\source\repos\WebApplication9\AdminArea\AdminArea.Web\obj\Debug\net6.0\staticwebassets\msbuild.buildTransitive.AdminArea.Web.props
+C:\Users\BC\source\repos\WebApplication9\AdminArea\AdminArea.Web\obj\Debug\net6.0\staticwebassets.pack.json
+C:\Users\BC\source\repos\WebApplication9\AdminArea\AdminArea.Web\obj\Debug\net6.0\staticwebassets.build.json
+C:\Users\BC\source\repos\WebApplication9\AdminArea\AdminArea.Web\obj\Debug\net6.0\staticwebassets.development.json
+C:\Users\BC\source\repos\WebApplication9\AdminArea\AdminArea.Web\obj\Debug\net6.0\scopedcss\bundle\AdminArea.Web.styles.css
+C:\Users\BC\source\repos\WebApplication9\AdminArea\AdminArea.Web\obj\Debug\net6.0\AdminArea.Web.csproj.CopyComplete
+C:\Users\BC\source\repos\WebApplication9\AdminArea\AdminArea.Web\obj\Debug\net6.0\AdminArea.Web.dll
+C:\Users\BC\source\repos\WebApplication9\AdminArea\AdminArea.Web\obj\Debug\net6.0\refint\AdminArea.Web.dll
+C:\Users\BC\source\repos\WebApplication9\AdminArea\AdminArea.Web\obj\Debug\net6.0\AdminArea.Web.pdb
+C:\Users\BC\source\repos\WebApplication9\AdminArea\AdminArea.Web\obj\Debug\net6.0\AdminArea.Web.genruntimeconfig.cache
+C:\Users\BC\source\repos\WebApplication9\AdminArea\AdminArea.Web\obj\Debug\net6.0\ref\AdminArea.Web.dll
+C:\Users\BC\source\repos\WebApplication9\AdminArea\AdminArea.Web\bin\Debug\net6.0\FirebirdSql.Data.FirebirdClient.dll
+C:\Users\BC\source\repos\WebApplication9\AdminArea\AdminArea.Web\bin\Debug\net6.0\Mono.Cecil.Mdb.dll
+C:\Users\BC\source\repos\WebApplication9\AdminArea\AdminArea.Web\bin\Debug\net6.0\Mono.Cecil.Pdb.dll
+C:\Users\BC\source\repos\WebApplication9\AdminArea\AdminArea.Web\bin\Debug\net6.0\Mono.Cecil.Rocks.dll
+C:\Users\BC\source\repos\WebApplication9\AdminArea\AdminArea.Web\bin\Debug\net6.0\Mono.Cecil.dll
+C:\Users\BC\source\repos\WebApplication9\AdminArea\AdminArea.Web\bin\Debug\net6.0\MySqlConnector.dll
+C:\Users\BC\source\repos\WebApplication9\AdminArea\AdminArea.Web\bin\Debug\net6.0\Npgsql.dll
+C:\Users\BC\source\repos\WebApplication9\AdminArea\AdminArea.Web\bin\Debug\net6.0\Scriban.dll
+C:\Users\BC\source\repos\WebApplication9\AdminArea\AdminArea.Web\bin\Debug\net6.0\dotnet-sergen.dll
+C:\Users\BC\source\repos\WebApplication9\AdminArea\AdminArea.Web\bin\Debug\net6.0\System.Data.SqlClient.dll
+C:\Users\BC\source\repos\WebApplication9\AdminArea\AdminArea.Web\bin\Debug\net6.0\runtimes\win-arm64\native\sni.dll
+C:\Users\BC\source\repos\WebApplication9\AdminArea\AdminArea.Web\bin\Debug\net6.0\runtimes\win-x64\native\sni.dll
+C:\Users\BC\source\repos\WebApplication9\AdminArea\AdminArea.Web\bin\Debug\net6.0\runtimes\win-x86\native\sni.dll
+C:\Users\BC\source\repos\WebApplication9\AdminArea\AdminArea.Web\bin\Debug\net6.0\runtimes\unix\lib\netcoreapp2.1\System.Data.SqlClient.dll
+C:\Users\BC\source\repos\WebApplication9\AdminArea\AdminArea.Web\bin\Debug\net6.0\runtimes\win\lib\netcoreapp2.1\System.Data.SqlClient.dll
+C:\Users\BC\source\repos\WebApplication9\AdminArea\AdminArea.Web\bin\Debug\net6.0\Humanizer.dll
+C:\Users\BC\source\repos\WebApplication9\AdminArea\AdminArea.Web\bin\Debug\net6.0\Microsoft.EntityFrameworkCore.dll
+C:\Users\BC\source\repos\WebApplication9\AdminArea\AdminArea.Web\bin\Debug\net6.0\Microsoft.EntityFrameworkCore.Abstractions.dll
+C:\Users\BC\source\repos\WebApplication9\AdminArea\AdminArea.Web\bin\Debug\net6.0\Microsoft.EntityFrameworkCore.Design.dll
+C:\Users\BC\source\repos\WebApplication9\AdminArea\AdminArea.Web\bin\Debug\net6.0\Microsoft.EntityFrameworkCore.Relational.dll
+C:\Users\BC\source\repos\WebApplication9\AdminArea\AdminArea.Web\bin\Debug\net6.0\Microsoft.Extensions.Caching.Abstractions.dll
+C:\Users\BC\source\repos\WebApplication9\AdminArea\AdminArea.Web\bin\Debug\net6.0\Microsoft.Extensions.Configuration.Abstractions.dll
+C:\Users\BC\source\repos\WebApplication9\AdminArea\AdminArea.Web\bin\Debug\net6.0\Microsoft.Extensions.DependencyInjection.dll
+C:\Users\BC\source\repos\WebApplication9\AdminArea\AdminArea.Web\bin\Debug\net6.0\Microsoft.Extensions.DependencyInjection.Abstractions.dll
+C:\Users\BC\source\repos\WebApplication9\AdminArea\AdminArea.Web\bin\Debug\net6.0\Microsoft.Extensions.Logging.dll
+C:\Users\BC\source\repos\WebApplication9\AdminArea\AdminArea.Web\bin\Debug\net6.0\Microsoft.Extensions.Logging.Abstractions.dll
+C:\Users\BC\source\repos\WebApplication9\AdminArea\AdminArea.Web\bin\Debug\net6.0\Microsoft.Extensions.Options.dll
+C:\Users\BC\source\repos\WebApplication9\AdminArea\AdminArea.Web\bin\Debug\net6.0\Microsoft.Extensions.Primitives.dll
+C:\Users\BC\source\repos\WebApplication9\AdminArea\AdminArea.Web\bin\Debug\net6.0\Mono.TextTemplating.dll
+C:\Users\BC\source\repos\WebApplication9\AdminArea\AdminArea.Web\bin\Debug\net6.0\System.CodeDom.dll
+C:\Users\BC\source\repos\WebApplication9\AdminArea\AdminArea.Web\bin\Debug\net6.0\System.Text.Encodings.Web.dll
+C:\Users\BC\source\repos\WebApplication9\AdminArea\AdminArea.Web\bin\Debug\net6.0\System.Text.Json.dll
+C:\Users\BC\source\repos\WebApplication9\AdminArea\AdminArea.Web\bin\Debug\net6.0\runtimes\browser\lib\net6.0\System.Text.Encodings.Web.dll
+H:\.NET PROJECTS\الموقع المتجري\JUMIA\AdminArea\AdminArea.Web\bin\Debug\net6.0\web.config
+H:\.NET PROJECTS\الموقع المتجري\JUMIA\AdminArea\AdminArea.Web\bin\Debug\net6.0\appsettings.bundles.json
+H:\.NET PROJECTS\الموقع المتجري\JUMIA\AdminArea\AdminArea.Web\bin\Debug\net6.0\appsettings.Development.json
+H:\.NET PROJECTS\الموقع المتجري\JUMIA\AdminArea\AdminArea.Web\bin\Debug\net6.0\appsettings.json
+H:\.NET PROJECTS\الموقع المتجري\JUMIA\AdminArea\AdminArea.Web\bin\Debug\net6.0\AdminArea.Web.staticwebassets.runtime.json
+H:\.NET PROJECTS\الموقع المتجري\JUMIA\AdminArea\AdminArea.Web\bin\Debug\net6.0\AdminArea.Web.exe
+H:\.NET PROJECTS\الموقع المتجري\JUMIA\AdminArea\AdminArea.Web\bin\Debug\net6.0\AdminArea.Web.deps.json
+H:\.NET PROJECTS\الموقع المتجري\JUMIA\AdminArea\AdminArea.Web\bin\Debug\net6.0\AdminArea.Web.runtimeconfig.json
+H:\.NET PROJECTS\الموقع المتجري\JUMIA\AdminArea\AdminArea.Web\bin\Debug\net6.0\AdminArea.Web.dll
+H:\.NET PROJECTS\الموقع المتجري\JUMIA\AdminArea\AdminArea.Web\bin\Debug\net6.0\AdminArea.Web.pdb
+H:\.NET PROJECTS\الموقع المتجري\JUMIA\AdminArea\AdminArea.Web\bin\Debug\net6.0\refs\Microsoft.AspNetCore.Antiforgery.dll
+H:\.NET PROJECTS\الموقع المتجري\JUMIA\AdminArea\AdminArea.Web\bin\Debug\net6.0\refs\Microsoft.AspNetCore.Authentication.Abstractions.dll
+H:\.NET PROJECTS\الموقع المتجري\JUMIA\AdminArea\AdminArea.Web\bin\Debug\net6.0\refs\Microsoft.AspNetCore.Authentication.Cookies.dll
+H:\.NET PROJECTS\الموقع المتجري\JUMIA\AdminArea\AdminArea.Web\bin\Debug\net6.0\refs\Microsoft.AspNetCore.Authentication.Core.dll
+H:\.NET PROJECTS\الموقع المتجري\JUMIA\AdminArea\AdminArea.Web\bin\Debug\net6.0\refs\Microsoft.AspNetCore.Authentication.dll
+H:\.NET PROJECTS\الموقع المتجري\JUMIA\AdminArea\AdminArea.Web\bin\Debug\net6.0\refs\Microsoft.AspNetCore.Authentication.OAuth.dll
+H:\.NET PROJECTS\الموقع المتجري\JUMIA\AdminArea\AdminArea.Web\bin\Debug\net6.0\refs\Microsoft.AspNetCore.Authorization.dll
+H:\.NET PROJECTS\الموقع المتجري\JUMIA\AdminArea\AdminArea.Web\bin\Debug\net6.0\refs\Microsoft.AspNetCore.Authorization.Policy.dll
+H:\.NET PROJECTS\الموقع المتجري\JUMIA\AdminArea\AdminArea.Web\bin\Debug\net6.0\refs\Microsoft.AspNetCore.Components.Authorization.dll
+H:\.NET PROJECTS\الموقع المتجري\JUMIA\AdminArea\AdminArea.Web\bin\Debug\net6.0\refs\Microsoft.AspNetCore.Components.dll
+H:\.NET PROJECTS\الموقع المتجري\JUMIA\AdminArea\AdminArea.Web\bin\Debug\net6.0\refs\Microsoft.AspNetCore.Components.Forms.dll
+H:\.NET PROJECTS\الموقع المتجري\JUMIA\AdminArea\AdminArea.Web\bin\Debug\net6.0\refs\Microsoft.AspNetCore.Components.Server.dll
+H:\.NET PROJECTS\الموقع المتجري\JUMIA\AdminArea\AdminArea.Web\bin\Debug\net6.0\refs\Microsoft.AspNetCore.Components.Web.dll
+H:\.NET PROJECTS\الموقع المتجري\JUMIA\AdminArea\AdminArea.Web\bin\Debug\net6.0\refs\Microsoft.AspNetCore.Connections.Abstractions.dll
+H:\.NET PROJECTS\الموقع المتجري\JUMIA\AdminArea\AdminArea.Web\bin\Debug\net6.0\refs\Microsoft.AspNetCore.CookiePolicy.dll
+H:\.NET PROJECTS\الموقع المتجري\JUMIA\AdminArea\AdminArea.Web\bin\Debug\net6.0\refs\Microsoft.AspNetCore.Cors.dll
+H:\.NET PROJECTS\الموقع المتجري\JUMIA\AdminArea\AdminArea.Web\bin\Debug\net6.0\refs\Microsoft.AspNetCore.Cryptography.Internal.dll
+H:\.NET PROJECTS\الموقع المتجري\JUMIA\AdminArea\AdminArea.Web\bin\Debug\net6.0\refs\Microsoft.AspNetCore.Cryptography.KeyDerivation.dll
+H:\.NET PROJECTS\الموقع المتجري\JUMIA\AdminArea\AdminArea.Web\bin\Debug\net6.0\refs\Microsoft.AspNetCore.DataProtection.Abstractions.dll
+H:\.NET PROJECTS\الموقع المتجري\JUMIA\AdminArea\AdminArea.Web\bin\Debug\net6.0\refs\Microsoft.AspNetCore.DataProtection.dll
+H:\.NET PROJECTS\الموقع المتجري\JUMIA\AdminArea\AdminArea.Web\bin\Debug\net6.0\refs\Microsoft.AspNetCore.DataProtection.Extensions.dll
+H:\.NET PROJECTS\الموقع المتجري\JUMIA\AdminArea\AdminArea.Web\bin\Debug\net6.0\refs\Microsoft.AspNetCore.Diagnostics.Abstractions.dll
+H:\.NET PROJECTS\الموقع المتجري\JUMIA\AdminArea\AdminArea.Web\bin\Debug\net6.0\refs\Microsoft.AspNetCore.Diagnostics.dll
+H:\.NET PROJECTS\الموقع المتجري\JUMIA\AdminArea\AdminArea.Web\bin\Debug\net6.0\refs\Microsoft.AspNetCore.Diagnostics.HealthChecks.dll
+H:\.NET PROJECTS\الموقع المتجري\JUMIA\AdminArea\AdminArea.Web\bin\Debug\net6.0\refs\Microsoft.AspNetCore.dll
+H:\.NET PROJECTS\الموقع المتجري\JUMIA\AdminArea\AdminArea.Web\bin\Debug\net6.0\refs\Microsoft.AspNetCore.HostFiltering.dll
+H:\.NET PROJECTS\الموقع المتجري\JUMIA\AdminArea\AdminArea.Web\bin\Debug\net6.0\refs\Microsoft.AspNetCore.Hosting.Abstractions.dll
+H:\.NET PROJECTS\الموقع المتجري\JUMIA\AdminArea\AdminArea.Web\bin\Debug\net6.0\refs\Microsoft.AspNetCore.Hosting.dll
+H:\.NET PROJECTS\الموقع المتجري\JUMIA\AdminArea\AdminArea.Web\bin\Debug\net6.0\refs\Microsoft.AspNetCore.Hosting.Server.Abstractions.dll
+H:\.NET PROJECTS\الموقع المتجري\JUMIA\AdminArea\AdminArea.Web\bin\Debug\net6.0\refs\Microsoft.AspNetCore.Html.Abstractions.dll
+H:\.NET PROJECTS\الموقع المتجري\JUMIA\AdminArea\AdminArea.Web\bin\Debug\net6.0\refs\Microsoft.AspNetCore.Http.Abstractions.dll
+H:\.NET PROJECTS\الموقع المتجري\JUMIA\AdminArea\AdminArea.Web\bin\Debug\net6.0\refs\Microsoft.AspNetCore.Http.Connections.Common.dll
+H:\.NET PROJECTS\الموقع المتجري\JUMIA\AdminArea\AdminArea.Web\bin\Debug\net6.0\refs\Microsoft.AspNetCore.Http.Connections.dll
+H:\.NET PROJECTS\الموقع المتجري\JUMIA\AdminArea\AdminArea.Web\bin\Debug\net6.0\refs\Microsoft.AspNetCore.Http.dll
+H:\.NET PROJECTS\الموقع المتجري\JUMIA\AdminArea\AdminArea.Web\bin\Debug\net6.0\refs\Microsoft.AspNetCore.Http.Extensions.dll
+H:\.NET PROJECTS\الموقع المتجري\JUMIA\AdminArea\AdminArea.Web\bin\Debug\net6.0\refs\Microsoft.AspNetCore.Http.Features.dll
+H:\.NET PROJECTS\الموقع المتجري\JUMIA\AdminArea\AdminArea.Web\bin\Debug\net6.0\refs\Microsoft.AspNetCore.Http.Results.dll
+H:\.NET PROJECTS\الموقع المتجري\JUMIA\AdminArea\AdminArea.Web\bin\Debug\net6.0\refs\Microsoft.AspNetCore.HttpLogging.dll
+H:\.NET PROJECTS\الموقع المتجري\JUMIA\AdminArea\AdminArea.Web\bin\Debug\net6.0\refs\Microsoft.AspNetCore.HttpOverrides.dll
+H:\.NET PROJECTS\الموقع المتجري\JUMIA\AdminArea\AdminArea.Web\bin\Debug\net6.0\refs\Microsoft.AspNetCore.HttpsPolicy.dll
+H:\.NET PROJECTS\الموقع المتجري\JUMIA\AdminArea\AdminArea.Web\bin\Debug\net6.0\refs\Microsoft.AspNetCore.Identity.dll
+H:\.NET PROJECTS\الموقع المتجري\JUMIA\AdminArea\AdminArea.Web\bin\Debug\net6.0\refs\Microsoft.AspNetCore.Localization.dll
+H:\.NET PROJECTS\الموقع المتجري\JUMIA\AdminArea\AdminArea.Web\bin\Debug\net6.0\refs\Microsoft.AspNetCore.Localization.Routing.dll
+H:\.NET PROJECTS\الموقع المتجري\JUMIA\AdminArea\AdminArea.Web\bin\Debug\net6.0\refs\Microsoft.AspNetCore.Metadata.dll
+H:\.NET PROJECTS\الموقع المتجري\JUMIA\AdminArea\AdminArea.Web\bin\Debug\net6.0\refs\Microsoft.AspNetCore.Mvc.Abstractions.dll
+H:\.NET PROJECTS\الموقع المتجري\JUMIA\AdminArea\AdminArea.Web\bin\Debug\net6.0\refs\Microsoft.AspNetCore.Mvc.ApiExplorer.dll
+H:\.NET PROJECTS\الموقع المتجري\JUMIA\AdminArea\AdminArea.Web\bin\Debug\net6.0\refs\Microsoft.AspNetCore.Mvc.Core.dll
+H:\.NET PROJECTS\الموقع المتجري\JUMIA\AdminArea\AdminArea.Web\bin\Debug\net6.0\refs\Microsoft.AspNetCore.Mvc.Cors.dll
+H:\.NET PROJECTS\الموقع المتجري\JUMIA\AdminArea\AdminArea.Web\bin\Debug\net6.0\refs\Microsoft.AspNetCore.Mvc.DataAnnotations.dll
+H:\.NET PROJECTS\الموقع المتجري\JUMIA\AdminArea\AdminArea.Web\bin\Debug\net6.0\refs\Microsoft.AspNetCore.Mvc.dll
+H:\.NET PROJECTS\الموقع المتجري\JUMIA\AdminArea\AdminArea.Web\bin\Debug\net6.0\refs\Microsoft.AspNetCore.Mvc.Formatters.Json.dll
+H:\.NET PROJECTS\الموقع المتجري\JUMIA\AdminArea\AdminArea.Web\bin\Debug\net6.0\refs\Microsoft.AspNetCore.Mvc.Formatters.Xml.dll
+H:\.NET PROJECTS\الموقع المتجري\JUMIA\AdminArea\AdminArea.Web\bin\Debug\net6.0\refs\Microsoft.AspNetCore.Mvc.Localization.dll
+H:\.NET PROJECTS\الموقع المتجري\JUMIA\AdminArea\AdminArea.Web\bin\Debug\net6.0\refs\Microsoft.AspNetCore.Mvc.Razor.dll
+H:\.NET PROJECTS\الموقع المتجري\JUMIA\AdminArea\AdminArea.Web\bin\Debug\net6.0\refs\Microsoft.AspNetCore.Mvc.RazorPages.dll
+H:\.NET PROJECTS\الموقع المتجري\JUMIA\AdminArea\AdminArea.Web\bin\Debug\net6.0\refs\Microsoft.AspNetCore.Mvc.TagHelpers.dll
+H:\.NET PROJECTS\الموقع المتجري\JUMIA\AdminArea\AdminArea.Web\bin\Debug\net6.0\refs\Microsoft.AspNetCore.Mvc.ViewFeatures.dll
+H:\.NET PROJECTS\الموقع المتجري\JUMIA\AdminArea\AdminArea.Web\bin\Debug\net6.0\refs\Microsoft.AspNetCore.Razor.dll
+H:\.NET PROJECTS\الموقع المتجري\JUMIA\AdminArea\AdminArea.Web\bin\Debug\net6.0\refs\Microsoft.AspNetCore.Razor.Runtime.dll
+H:\.NET PROJECTS\الموقع المتجري\JUMIA\AdminArea\AdminArea.Web\bin\Debug\net6.0\refs\Microsoft.AspNetCore.ResponseCaching.Abstractions.dll
+H:\.NET PROJECTS\الموقع المتجري\JUMIA\AdminArea\AdminArea.Web\bin\Debug\net6.0\refs\Microsoft.AspNetCore.ResponseCaching.dll
+H:\.NET PROJECTS\الموقع المتجري\JUMIA\AdminArea\AdminArea.Web\bin\Debug\net6.0\refs\Microsoft.AspNetCore.ResponseCompression.dll
+H:\.NET PROJECTS\الموقع المتجري\JUMIA\AdminArea\AdminArea.Web\bin\Debug\net6.0\refs\Microsoft.AspNetCore.Rewrite.dll
+H:\.NET PROJECTS\الموقع المتجري\JUMIA\AdminArea\AdminArea.Web\bin\Debug\net6.0\refs\Microsoft.AspNetCore.Routing.Abstractions.dll
+H:\.NET PROJECTS\الموقع المتجري\JUMIA\AdminArea\AdminArea.Web\bin\Debug\net6.0\refs\Microsoft.AspNetCore.Routing.dll
+H:\.NET PROJECTS\الموقع المتجري\JUMIA\AdminArea\AdminArea.Web\bin\Debug\net6.0\refs\Microsoft.AspNetCore.Server.HttpSys.dll
+H:\.NET PROJECTS\الموقع المتجري\JUMIA\AdminArea\AdminArea.Web\bin\Debug\net6.0\refs\Microsoft.AspNetCore.Server.IIS.dll
+H:\.NET PROJECTS\الموقع المتجري\JUMIA\AdminArea\AdminArea.Web\bin\Debug\net6.0\refs\Microsoft.AspNetCore.Server.IISIntegration.dll
+H:\.NET PROJECTS\الموقع المتجري\JUMIA\AdminArea\AdminArea.Web\bin\Debug\net6.0\refs\Microsoft.AspNetCore.Server.Kestrel.Core.dll
+H:\.NET PROJECTS\الموقع المتجري\JUMIA\AdminArea\AdminArea.Web\bin\Debug\net6.0\refs\Microsoft.AspNetCore.Server.Kestrel.dll
+H:\.NET PROJECTS\الموقع المتجري\JUMIA\AdminArea\AdminArea.Web\bin\Debug\net6.0\refs\Microsoft.AspNetCore.Server.Kestrel.Transport.Quic.dll
+H:\.NET PROJECTS\الموقع المتجري\JUMIA\AdminArea\AdminArea.Web\bin\Debug\net6.0\refs\Microsoft.AspNetCore.Server.Kestrel.Transport.Sockets.dll
+H:\.NET PROJECTS\الموقع المتجري\JUMIA\AdminArea\AdminArea.Web\bin\Debug\net6.0\refs\Microsoft.AspNetCore.Session.dll
+H:\.NET PROJECTS\الموقع المتجري\JUMIA\AdminArea\AdminArea.Web\bin\Debug\net6.0\refs\Microsoft.AspNetCore.SignalR.Common.dll
+H:\.NET PROJECTS\الموقع المتجري\JUMIA\AdminArea\AdminArea.Web\bin\Debug\net6.0\refs\Microsoft.AspNetCore.SignalR.Core.dll
+H:\.NET PROJECTS\الموقع المتجري\JUMIA\AdminArea\AdminArea.Web\bin\Debug\net6.0\refs\Microsoft.AspNetCore.SignalR.dll
+H:\.NET PROJECTS\الموقع المتجري\JUMIA\AdminArea\AdminArea.Web\bin\Debug\net6.0\refs\Microsoft.AspNetCore.SignalR.Protocols.Json.dll
+H:\.NET PROJECTS\الموقع المتجري\JUMIA\AdminArea\AdminArea.Web\bin\Debug\net6.0\refs\Microsoft.AspNetCore.StaticFiles.dll
+H:\.NET PROJECTS\الموقع المتجري\JUMIA\AdminArea\AdminArea.Web\bin\Debug\net6.0\refs\Microsoft.AspNetCore.WebSockets.dll
+H:\.NET PROJECTS\الموقع المتجري\JUMIA\AdminArea\AdminArea.Web\bin\Debug\net6.0\refs\Microsoft.AspNetCore.WebUtilities.dll
+H:\.NET PROJECTS\الموقع المتجري\JUMIA\AdminArea\AdminArea.Web\bin\Debug\net6.0\refs\Microsoft.CSharp.dll
+H:\.NET PROJECTS\الموقع المتجري\JUMIA\AdminArea\AdminArea.Web\bin\Debug\net6.0\refs\Microsoft.Extensions.Configuration.Binder.dll
+H:\.NET PROJECTS\الموقع المتجري\JUMIA\AdminArea\AdminArea.Web\bin\Debug\net6.0\refs\Microsoft.Extensions.Configuration.CommandLine.dll
+H:\.NET PROJECTS\الموقع المتجري\JUMIA\AdminArea\AdminArea.Web\bin\Debug\net6.0\refs\Microsoft.Extensions.Configuration.dll
+H:\.NET PROJECTS\الموقع المتجري\JUMIA\AdminArea\AdminArea.Web\bin\Debug\net6.0\refs\Microsoft.Extensions.Configuration.EnvironmentVariables.dll
+H:\.NET PROJECTS\الموقع المتجري\JUMIA\AdminArea\AdminArea.Web\bin\Debug\net6.0\refs\Microsoft.Extensions.Configuration.FileExtensions.dll
+H:\.NET PROJECTS\الموقع المتجري\JUMIA\AdminArea\AdminArea.Web\bin\Debug\net6.0\refs\Microsoft.Extensions.Configuration.Ini.dll
+H:\.NET PROJECTS\الموقع المتجري\JUMIA\AdminArea\AdminArea.Web\bin\Debug\net6.0\refs\Microsoft.Extensions.Configuration.Json.dll
+H:\.NET PROJECTS\الموقع المتجري\JUMIA\AdminArea\AdminArea.Web\bin\Debug\net6.0\refs\Microsoft.Extensions.Configuration.KeyPerFile.dll
+H:\.NET PROJECTS\الموقع المتجري\JUMIA\AdminArea\AdminArea.Web\bin\Debug\net6.0\refs\Microsoft.Extensions.Configuration.UserSecrets.dll
+H:\.NET PROJECTS\الموقع المتجري\JUMIA\AdminArea\AdminArea.Web\bin\Debug\net6.0\refs\Microsoft.Extensions.Configuration.Xml.dll
+H:\.NET PROJECTS\الموقع المتجري\JUMIA\AdminArea\AdminArea.Web\bin\Debug\net6.0\refs\Microsoft.Extensions.Diagnostics.HealthChecks.Abstractions.dll
+H:\.NET PROJECTS\الموقع المتجري\JUMIA\AdminArea\AdminArea.Web\bin\Debug\net6.0\refs\Microsoft.Extensions.Diagnostics.HealthChecks.dll
+H:\.NET PROJECTS\الموقع المتجري\JUMIA\AdminArea\AdminArea.Web\bin\Debug\net6.0\refs\Microsoft.Extensions.Features.dll
+H:\.NET PROJECTS\الموقع المتجري\JUMIA\AdminArea\AdminArea.Web\bin\Debug\net6.0\refs\Microsoft.Extensions.FileProviders.Abstractions.dll
+H:\.NET PROJECTS\الموقع المتجري\JUMIA\AdminArea\AdminArea.Web\bin\Debug\net6.0\refs\Microsoft.Extensions.FileProviders.Composite.dll
+H:\.NET PROJECTS\الموقع المتجري\JUMIA\AdminArea\AdminArea.Web\bin\Debug\net6.0\refs\Microsoft.Extensions.FileProviders.Embedded.dll
+H:\.NET PROJECTS\الموقع المتجري\JUMIA\AdminArea\AdminArea.Web\bin\Debug\net6.0\refs\Microsoft.Extensions.FileProviders.Physical.dll
+H:\.NET PROJECTS\الموقع المتجري\JUMIA\AdminArea\AdminArea.Web\bin\Debug\net6.0\refs\Microsoft.Extensions.FileSystemGlobbing.dll
+H:\.NET PROJECTS\الموقع المتجري\JUMIA\AdminArea\AdminArea.Web\bin\Debug\net6.0\refs\Microsoft.Extensions.Hosting.Abstractions.dll
+H:\.NET PROJECTS\الموقع المتجري\JUMIA\AdminArea\AdminArea.Web\bin\Debug\net6.0\refs\Microsoft.Extensions.Hosting.dll
+H:\.NET PROJECTS\الموقع المتجري\JUMIA\AdminArea\AdminArea.Web\bin\Debug\net6.0\refs\Microsoft.Extensions.Http.dll
+H:\.NET PROJECTS\الموقع المتجري\JUMIA\AdminArea\AdminArea.Web\bin\Debug\net6.0\refs\Microsoft.Extensions.Identity.Core.dll
+H:\.NET PROJECTS\الموقع المتجري\JUMIA\AdminArea\AdminArea.Web\bin\Debug\net6.0\refs\Microsoft.Extensions.Identity.Stores.dll
+H:\.NET PROJECTS\الموقع المتجري\JUMIA\AdminArea\AdminArea.Web\bin\Debug\net6.0\refs\Microsoft.Extensions.Localization.Abstractions.dll
+H:\.NET PROJECTS\الموقع المتجري\JUMIA\AdminArea\AdminArea.Web\bin\Debug\net6.0\refs\Microsoft.Extensions.Localization.dll
+H:\.NET PROJECTS\الموقع المتجري\JUMIA\AdminArea\AdminArea.Web\bin\Debug\net6.0\refs\Microsoft.Extensions.Logging.Configuration.dll
+H:\.NET PROJECTS\الموقع المتجري\JUMIA\AdminArea\AdminArea.Web\bin\Debug\net6.0\refs\Microsoft.Extensions.Logging.Console.dll
+H:\.NET PROJECTS\الموقع المتجري\JUMIA\AdminArea\AdminArea.Web\bin\Debug\net6.0\refs\Microsoft.Extensions.Logging.Debug.dll
+H:\.NET PROJECTS\الموقع المتجري\JUMIA\AdminArea\AdminArea.Web\bin\Debug\net6.0\refs\Microsoft.Extensions.Logging.EventLog.dll
+H:\.NET PROJECTS\الموقع المتجري\JUMIA\AdminArea\AdminArea.Web\bin\Debug\net6.0\refs\Microsoft.Extensions.Logging.EventSource.dll
+H:\.NET PROJECTS\الموقع المتجري\JUMIA\AdminArea\AdminArea.Web\bin\Debug\net6.0\refs\Microsoft.Extensions.Logging.TraceSource.dll
+H:\.NET PROJECTS\الموقع المتجري\JUMIA\AdminArea\AdminArea.Web\bin\Debug\net6.0\refs\Microsoft.Extensions.ObjectPool.dll
+H:\.NET PROJECTS\الموقع المتجري\JUMIA\AdminArea\AdminArea.Web\bin\Debug\net6.0\refs\Microsoft.Extensions.Options.ConfigurationExtensions.dll
+H:\.NET PROJECTS\الموقع المتجري\JUMIA\AdminArea\AdminArea.Web\bin\Debug\net6.0\refs\Microsoft.Extensions.Options.DataAnnotations.dll
+H:\.NET PROJECTS\الموقع المتجري\JUMIA\AdminArea\AdminArea.Web\bin\Debug\net6.0\refs\Microsoft.Extensions.WebEncoders.dll
+H:\.NET PROJECTS\الموقع المتجري\JUMIA\AdminArea\AdminArea.Web\bin\Debug\net6.0\refs\Microsoft.JSInterop.dll
+H:\.NET PROJECTS\الموقع المتجري\JUMIA\AdminArea\AdminArea.Web\bin\Debug\net6.0\refs\Microsoft.Net.Http.Headers.dll
+H:\.NET PROJECTS\الموقع المتجري\JUMIA\AdminArea\AdminArea.Web\bin\Debug\net6.0\refs\Microsoft.VisualBasic.Core.dll
+H:\.NET PROJECTS\الموقع المتجري\JUMIA\AdminArea\AdminArea.Web\bin\Debug\net6.0\refs\Microsoft.VisualBasic.dll
+H:\.NET PROJECTS\الموقع المتجري\JUMIA\AdminArea\AdminArea.Web\bin\Debug\net6.0\refs\Microsoft.Win32.Primitives.dll
+H:\.NET PROJECTS\الموقع المتجري\JUMIA\AdminArea\AdminArea.Web\bin\Debug\net6.0\refs\Microsoft.Win32.Registry.dll
+H:\.NET PROJECTS\الموقع المتجري\JUMIA\AdminArea\AdminArea.Web\bin\Debug\net6.0\refs\mscorlib.dll
+H:\.NET PROJECTS\الموقع المتجري\JUMIA\AdminArea\AdminArea.Web\bin\Debug\net6.0\refs\netstandard.dll
+H:\.NET PROJECTS\الموقع المتجري\JUMIA\AdminArea\AdminArea.Web\bin\Debug\net6.0\refs\System.AppContext.dll
+H:\.NET PROJECTS\الموقع المتجري\JUMIA\AdminArea\AdminArea.Web\bin\Debug\net6.0\refs\System.Buffers.dll
+H:\.NET PROJECTS\الموقع المتجري\JUMIA\AdminArea\AdminArea.Web\bin\Debug\net6.0\refs\System.Collections.Concurrent.dll
+H:\.NET PROJECTS\الموقع المتجري\JUMIA\AdminArea\AdminArea.Web\bin\Debug\net6.0\refs\System.Collections.dll
+H:\.NET PROJECTS\الموقع المتجري\JUMIA\AdminArea\AdminArea.Web\bin\Debug\net6.0\refs\System.Collections.Immutable.dll
+H:\.NET PROJECTS\الموقع المتجري\JUMIA\AdminArea\AdminArea.Web\bin\Debug\net6.0\refs\System.Collections.NonGeneric.dll
+H:\.NET PROJECTS\الموقع المتجري\JUMIA\AdminArea\AdminArea.Web\bin\Debug\net6.0\refs\System.Collections.Specialized.dll
+H:\.NET PROJECTS\الموقع المتجري\JUMIA\AdminArea\AdminArea.Web\bin\Debug\net6.0\refs\System.ComponentModel.Annotations.dll
+H:\.NET PROJECTS\الموقع المتجري\JUMIA\AdminArea\AdminArea.Web\bin\Debug\net6.0\refs\System.ComponentModel.DataAnnotations.dll
+H:\.NET PROJECTS\الموقع المتجري\JUMIA\AdminArea\AdminArea.Web\bin\Debug\net6.0\refs\System.ComponentModel.dll
+H:\.NET PROJECTS\الموقع المتجري\JUMIA\AdminArea\AdminArea.Web\bin\Debug\net6.0\refs\System.ComponentModel.EventBasedAsync.dll
+H:\.NET PROJECTS\الموقع المتجري\JUMIA\AdminArea\AdminArea.Web\bin\Debug\net6.0\refs\System.ComponentModel.Primitives.dll
+H:\.NET PROJECTS\الموقع المتجري\JUMIA\AdminArea\AdminArea.Web\bin\Debug\net6.0\refs\System.ComponentModel.TypeConverter.dll
+H:\.NET PROJECTS\الموقع المتجري\JUMIA\AdminArea\AdminArea.Web\bin\Debug\net6.0\refs\System.Configuration.dll
+H:\.NET PROJECTS\الموقع المتجري\JUMIA\AdminArea\AdminArea.Web\bin\Debug\net6.0\refs\System.Console.dll
+H:\.NET PROJECTS\الموقع المتجري\JUMIA\AdminArea\AdminArea.Web\bin\Debug\net6.0\refs\System.Core.dll
+H:\.NET PROJECTS\الموقع المتجري\JUMIA\AdminArea\AdminArea.Web\bin\Debug\net6.0\refs\System.Data.Common.dll
+H:\.NET PROJECTS\الموقع المتجري\JUMIA\AdminArea\AdminArea.Web\bin\Debug\net6.0\refs\System.Data.DataSetExtensions.dll
+H:\.NET PROJECTS\الموقع المتجري\JUMIA\AdminArea\AdminArea.Web\bin\Debug\net6.0\refs\System.Data.dll
+H:\.NET PROJECTS\الموقع المتجري\JUMIA\AdminArea\AdminArea.Web\bin\Debug\net6.0\refs\System.Diagnostics.Contracts.dll
+H:\.NET PROJECTS\الموقع المتجري\JUMIA\AdminArea\AdminArea.Web\bin\Debug\net6.0\refs\System.Diagnostics.Debug.dll
+H:\.NET PROJECTS\الموقع المتجري\JUMIA\AdminArea\AdminArea.Web\bin\Debug\net6.0\refs\System.Diagnostics.DiagnosticSource.dll
+H:\.NET PROJECTS\الموقع المتجري\JUMIA\AdminArea\AdminArea.Web\bin\Debug\net6.0\refs\System.Diagnostics.EventLog.dll
+H:\.NET PROJECTS\الموقع المتجري\JUMIA\AdminArea\AdminArea.Web\bin\Debug\net6.0\refs\System.Diagnostics.FileVersionInfo.dll
+H:\.NET PROJECTS\الموقع المتجري\JUMIA\AdminArea\AdminArea.Web\bin\Debug\net6.0\refs\System.Diagnostics.Process.dll
+H:\.NET PROJECTS\الموقع المتجري\JUMIA\AdminArea\AdminArea.Web\bin\Debug\net6.0\refs\System.Diagnostics.StackTrace.dll
+H:\.NET PROJECTS\الموقع المتجري\JUMIA\AdminArea\AdminArea.Web\bin\Debug\net6.0\refs\System.Diagnostics.TextWriterTraceListener.dll
+H:\.NET PROJECTS\الموقع المتجري\JUMIA\AdminArea\AdminArea.Web\bin\Debug\net6.0\refs\System.Diagnostics.Tools.dll
+H:\.NET PROJECTS\الموقع المتجري\JUMIA\AdminArea\AdminArea.Web\bin\Debug\net6.0\refs\System.Diagnostics.TraceSource.dll
+H:\.NET PROJECTS\الموقع المتجري\JUMIA\AdminArea\AdminArea.Web\bin\Debug\net6.0\refs\System.Diagnostics.Tracing.dll
+H:\.NET PROJECTS\الموقع المتجري\JUMIA\AdminArea\AdminArea.Web\bin\Debug\net6.0\refs\System.dll
+H:\.NET PROJECTS\الموقع المتجري\JUMIA\AdminArea\AdminArea.Web\bin\Debug\net6.0\refs\System.Drawing.dll
+H:\.NET PROJECTS\الموقع المتجري\JUMIA\AdminArea\AdminArea.Web\bin\Debug\net6.0\refs\System.Drawing.Primitives.dll
+H:\.NET PROJECTS\الموقع المتجري\JUMIA\AdminArea\AdminArea.Web\bin\Debug\net6.0\refs\System.Dynamic.Runtime.dll
+H:\.NET PROJECTS\الموقع المتجري\JUMIA\AdminArea\AdminArea.Web\bin\Debug\net6.0\refs\System.Formats.Asn1.dll
+H:\.NET PROJECTS\الموقع المتجري\JUMIA\AdminArea\AdminArea.Web\bin\Debug\net6.0\refs\System.Globalization.Calendars.dll
+H:\.NET PROJECTS\الموقع المتجري\JUMIA\AdminArea\AdminArea.Web\bin\Debug\net6.0\refs\System.Globalization.dll
+H:\.NET PROJECTS\الموقع المتجري\JUMIA\AdminArea\AdminArea.Web\bin\Debug\net6.0\refs\System.Globalization.Extensions.dll
+H:\.NET PROJECTS\الموقع المتجري\JUMIA\AdminArea\AdminArea.Web\bin\Debug\net6.0\refs\System.IO.Compression.Brotli.dll
+H:\.NET PROJECTS\الموقع المتجري\JUMIA\AdminArea\AdminArea.Web\bin\Debug\net6.0\refs\System.IO.Compression.dll
+H:\.NET PROJECTS\الموقع المتجري\JUMIA\AdminArea\AdminArea.Web\bin\Debug\net6.0\refs\System.IO.Compression.FileSystem.dll
+H:\.NET PROJECTS\الموقع المتجري\JUMIA\AdminArea\AdminArea.Web\bin\Debug\net6.0\refs\System.IO.Compression.ZipFile.dll
+H:\.NET PROJECTS\الموقع المتجري\JUMIA\AdminArea\AdminArea.Web\bin\Debug\net6.0\refs\System.IO.dll
+H:\.NET PROJECTS\الموقع المتجري\JUMIA\AdminArea\AdminArea.Web\bin\Debug\net6.0\refs\System.IO.FileSystem.AccessControl.dll
+H:\.NET PROJECTS\الموقع المتجري\JUMIA\AdminArea\AdminArea.Web\bin\Debug\net6.0\refs\System.IO.FileSystem.dll
+H:\.NET PROJECTS\الموقع المتجري\JUMIA\AdminArea\AdminArea.Web\bin\Debug\net6.0\refs\System.IO.FileSystem.DriveInfo.dll
+H:\.NET PROJECTS\الموقع المتجري\JUMIA\AdminArea\AdminArea.Web\bin\Debug\net6.0\refs\System.IO.FileSystem.Primitives.dll
+H:\.NET PROJECTS\الموقع المتجري\JUMIA\AdminArea\AdminArea.Web\bin\Debug\net6.0\refs\System.IO.FileSystem.Watcher.dll
+H:\.NET PROJECTS\الموقع المتجري\JUMIA\AdminArea\AdminArea.Web\bin\Debug\net6.0\refs\System.IO.IsolatedStorage.dll
+H:\.NET PROJECTS\الموقع المتجري\JUMIA\AdminArea\AdminArea.Web\bin\Debug\net6.0\refs\System.IO.MemoryMappedFiles.dll
+H:\.NET PROJECTS\الموقع المتجري\JUMIA\AdminArea\AdminArea.Web\bin\Debug\net6.0\refs\System.IO.Pipelines.dll
+H:\.NET PROJECTS\الموقع المتجري\JUMIA\AdminArea\AdminArea.Web\bin\Debug\net6.0\refs\System.IO.Pipes.AccessControl.dll
+H:\.NET PROJECTS\الموقع المتجري\JUMIA\AdminArea\AdminArea.Web\bin\Debug\net6.0\refs\System.IO.Pipes.dll
+H:\.NET PROJECTS\الموقع المتجري\JUMIA\AdminArea\AdminArea.Web\bin\Debug\net6.0\refs\System.IO.UnmanagedMemoryStream.dll
+H:\.NET PROJECTS\الموقع المتجري\JUMIA\AdminArea\AdminArea.Web\bin\Debug\net6.0\refs\System.Linq.dll
+H:\.NET PROJECTS\الموقع المتجري\JUMIA\AdminArea\AdminArea.Web\bin\Debug\net6.0\refs\System.Linq.Expressions.dll
+H:\.NET PROJECTS\الموقع المتجري\JUMIA\AdminArea\AdminArea.Web\bin\Debug\net6.0\refs\System.Linq.Parallel.dll
+H:\.NET PROJECTS\الموقع المتجري\JUMIA\AdminArea\AdminArea.Web\bin\Debug\net6.0\refs\System.Linq.Queryable.dll
+H:\.NET PROJECTS\الموقع المتجري\JUMIA\AdminArea\AdminArea.Web\bin\Debug\net6.0\refs\System.Memory.dll
+H:\.NET PROJECTS\الموقع المتجري\JUMIA\AdminArea\AdminArea.Web\bin\Debug\net6.0\refs\System.Net.dll
+H:\.NET PROJECTS\الموقع المتجري\JUMIA\AdminArea\AdminArea.Web\bin\Debug\net6.0\refs\System.Net.Http.dll
+H:\.NET PROJECTS\الموقع المتجري\JUMIA\AdminArea\AdminArea.Web\bin\Debug\net6.0\refs\System.Net.Http.Json.dll
+H:\.NET PROJECTS\الموقع المتجري\JUMIA\AdminArea\AdminArea.Web\bin\Debug\net6.0\refs\System.Net.HttpListener.dll
+H:\.NET PROJECTS\الموقع المتجري\JUMIA\AdminArea\AdminArea.Web\bin\Debug\net6.0\refs\System.Net.Mail.dll
+H:\.NET PROJECTS\الموقع المتجري\JUMIA\AdminArea\AdminArea.Web\bin\Debug\net6.0\refs\System.Net.NameResolution.dll
+H:\.NET PROJECTS\الموقع المتجري\JUMIA\AdminArea\AdminArea.Web\bin\Debug\net6.0\refs\System.Net.NetworkInformation.dll
+H:\.NET PROJECTS\الموقع المتجري\JUMIA\AdminArea\AdminArea.Web\bin\Debug\net6.0\refs\System.Net.Ping.dll
+H:\.NET PROJECTS\الموقع المتجري\JUMIA\AdminArea\AdminArea.Web\bin\Debug\net6.0\refs\System.Net.Primitives.dll
+H:\.NET PROJECTS\الموقع المتجري\JUMIA\AdminArea\AdminArea.Web\bin\Debug\net6.0\refs\System.Net.Requests.dll
+H:\.NET PROJECTS\الموقع المتجري\JUMIA\AdminArea\AdminArea.Web\bin\Debug\net6.0\refs\System.Net.Security.dll
+H:\.NET PROJECTS\الموقع المتجري\JUMIA\AdminArea\AdminArea.Web\bin\Debug\net6.0\refs\System.Net.ServicePoint.dll
+H:\.NET PROJECTS\الموقع المتجري\JUMIA\AdminArea\AdminArea.Web\bin\Debug\net6.0\refs\System.Net.Sockets.dll
+H:\.NET PROJECTS\الموقع المتجري\JUMIA\AdminArea\AdminArea.Web\bin\Debug\net6.0\refs\System.Net.WebClient.dll
+H:\.NET PROJECTS\الموقع المتجري\JUMIA\AdminArea\AdminArea.Web\bin\Debug\net6.0\refs\System.Net.WebHeaderCollection.dll
+H:\.NET PROJECTS\الموقع المتجري\JUMIA\AdminArea\AdminArea.Web\bin\Debug\net6.0\refs\System.Net.WebProxy.dll
+H:\.NET PROJECTS\الموقع المتجري\JUMIA\AdminArea\AdminArea.Web\bin\Debug\net6.0\refs\System.Net.WebSockets.Client.dll
+H:\.NET PROJECTS\الموقع المتجري\JUMIA\AdminArea\AdminArea.Web\bin\Debug\net6.0\refs\System.Net.WebSockets.dll
+H:\.NET PROJECTS\الموقع المتجري\JUMIA\AdminArea\AdminArea.Web\bin\Debug\net6.0\refs\System.Numerics.dll
+H:\.NET PROJECTS\الموقع المتجري\JUMIA\AdminArea\AdminArea.Web\bin\Debug\net6.0\refs\System.Numerics.Vectors.dll
+H:\.NET PROJECTS\الموقع المتجري\JUMIA\AdminArea\AdminArea.Web\bin\Debug\net6.0\refs\System.ObjectModel.dll
+H:\.NET PROJECTS\الموقع المتجري\JUMIA\AdminArea\AdminArea.Web\bin\Debug\net6.0\refs\System.Reflection.DispatchProxy.dll
+H:\.NET PROJECTS\الموقع المتجري\JUMIA\AdminArea\AdminArea.Web\bin\Debug\net6.0\refs\System.Reflection.dll
+H:\.NET PROJECTS\الموقع المتجري\JUMIA\AdminArea\AdminArea.Web\bin\Debug\net6.0\refs\System.Reflection.Emit.dll
+H:\.NET PROJECTS\الموقع المتجري\JUMIA\AdminArea\AdminArea.Web\bin\Debug\net6.0\refs\System.Reflection.Emit.ILGeneration.dll
+H:\.NET PROJECTS\الموقع المتجري\JUMIA\AdminArea\AdminArea.Web\bin\Debug\net6.0\refs\System.Reflection.Emit.Lightweight.dll
+H:\.NET PROJECTS\الموقع المتجري\JUMIA\AdminArea\AdminArea.Web\bin\Debug\net6.0\refs\System.Reflection.Extensions.dll
+H:\.NET PROJECTS\الموقع المتجري\JUMIA\AdminArea\AdminArea.Web\bin\Debug\net6.0\refs\System.Reflection.Metadata.dll
+H:\.NET PROJECTS\الموقع المتجري\JUMIA\AdminArea\AdminArea.Web\bin\Debug\net6.0\refs\System.Reflection.Primitives.dll
+H:\.NET PROJECTS\الموقع المتجري\JUMIA\AdminArea\AdminArea.Web\bin\Debug\net6.0\refs\System.Reflection.TypeExtensions.dll
+H:\.NET PROJECTS\الموقع المتجري\JUMIA\AdminArea\AdminArea.Web\bin\Debug\net6.0\refs\System.Resources.Reader.dll
+H:\.NET PROJECTS\الموقع المتجري\JUMIA\AdminArea\AdminArea.Web\bin\Debug\net6.0\refs\System.Resources.ResourceManager.dll
+H:\.NET PROJECTS\الموقع المتجري\JUMIA\AdminArea\AdminArea.Web\bin\Debug\net6.0\refs\System.Resources.Writer.dll
+H:\.NET PROJECTS\الموقع المتجري\JUMIA\AdminArea\AdminArea.Web\bin\Debug\net6.0\refs\System.Runtime.CompilerServices.Unsafe.dll
+H:\.NET PROJECTS\الموقع المتجري\JUMIA\AdminArea\AdminArea.Web\bin\Debug\net6.0\refs\System.Runtime.CompilerServices.VisualC.dll
+H:\.NET PROJECTS\الموقع المتجري\JUMIA\AdminArea\AdminArea.Web\bin\Debug\net6.0\refs\System.Runtime.dll
+H:\.NET PROJECTS\الموقع المتجري\JUMIA\AdminArea\AdminArea.Web\bin\Debug\net6.0\refs\System.Runtime.Extensions.dll
+H:\.NET PROJECTS\الموقع المتجري\JUMIA\AdminArea\AdminArea.Web\bin\Debug\net6.0\refs\System.Runtime.Handles.dll
+H:\.NET PROJECTS\الموقع المتجري\JUMIA\AdminArea\AdminArea.Web\bin\Debug\net6.0\refs\System.Runtime.InteropServices.dll
+H:\.NET PROJECTS\الموقع المتجري\JUMIA\AdminArea\AdminArea.Web\bin\Debug\net6.0\refs\System.Runtime.InteropServices.RuntimeInformation.dll
+H:\.NET PROJECTS\الموقع المتجري\JUMIA\AdminArea\AdminArea.Web\bin\Debug\net6.0\refs\System.Runtime.Intrinsics.dll
+H:\.NET PROJECTS\الموقع المتجري\JUMIA\AdminArea\AdminArea.Web\bin\Debug\net6.0\refs\System.Runtime.Loader.dll
+H:\.NET PROJECTS\الموقع المتجري\JUMIA\AdminArea\AdminArea.Web\bin\Debug\net6.0\refs\System.Runtime.Numerics.dll
+H:\.NET PROJECTS\الموقع المتجري\JUMIA\AdminArea\AdminArea.Web\bin\Debug\net6.0\refs\System.Runtime.Serialization.dll
+H:\.NET PROJECTS\الموقع المتجري\JUMIA\AdminArea\AdminArea.Web\bin\Debug\net6.0\refs\System.Runtime.Serialization.Formatters.dll
+H:\.NET PROJECTS\الموقع المتجري\JUMIA\AdminArea\AdminArea.Web\bin\Debug\net6.0\refs\System.Runtime.Serialization.Json.dll
+H:\.NET PROJECTS\الموقع المتجري\JUMIA\AdminArea\AdminArea.Web\bin\Debug\net6.0\refs\System.Runtime.Serialization.Primitives.dll
+H:\.NET PROJECTS\الموقع المتجري\JUMIA\AdminArea\AdminArea.Web\bin\Debug\net6.0\refs\System.Runtime.Serialization.Xml.dll
+H:\.NET PROJECTS\الموقع المتجري\JUMIA\AdminArea\AdminArea.Web\bin\Debug\net6.0\refs\System.Security.AccessControl.dll
+H:\.NET PROJECTS\الموقع المتجري\JUMIA\AdminArea\AdminArea.Web\bin\Debug\net6.0\refs\System.Security.Claims.dll
+H:\.NET PROJECTS\الموقع المتجري\JUMIA\AdminArea\AdminArea.Web\bin\Debug\net6.0\refs\System.Security.Cryptography.Algorithms.dll
+H:\.NET PROJECTS\الموقع المتجري\JUMIA\AdminArea\AdminArea.Web\bin\Debug\net6.0\refs\System.Security.Cryptography.Cng.dll
+H:\.NET PROJECTS\الموقع المتجري\JUMIA\AdminArea\AdminArea.Web\bin\Debug\net6.0\refs\System.Security.Cryptography.Csp.dll
+H:\.NET PROJECTS\الموقع المتجري\JUMIA\AdminArea\AdminArea.Web\bin\Debug\net6.0\refs\System.Security.Cryptography.Encoding.dll
+H:\.NET PROJECTS\الموقع المتجري\JUMIA\AdminArea\AdminArea.Web\bin\Debug\net6.0\refs\System.Security.Cryptography.OpenSsl.dll
+H:\.NET PROJECTS\الموقع المتجري\JUMIA\AdminArea\AdminArea.Web\bin\Debug\net6.0\refs\System.Security.Cryptography.Primitives.dll
+H:\.NET PROJECTS\الموقع المتجري\JUMIA\AdminArea\AdminArea.Web\bin\Debug\net6.0\refs\System.Security.Cryptography.X509Certificates.dll
+H:\.NET PROJECTS\الموقع المتجري\JUMIA\AdminArea\AdminArea.Web\bin\Debug\net6.0\refs\System.Security.Cryptography.Xml.dll
+H:\.NET PROJECTS\الموقع المتجري\JUMIA\AdminArea\AdminArea.Web\bin\Debug\net6.0\refs\System.Security.dll
+H:\.NET PROJECTS\الموقع المتجري\JUMIA\AdminArea\AdminArea.Web\bin\Debug\net6.0\refs\System.Security.Principal.dll
+H:\.NET PROJECTS\الموقع المتجري\JUMIA\AdminArea\AdminArea.Web\bin\Debug\net6.0\refs\System.Security.Principal.Windows.dll
+H:\.NET PROJECTS\الموقع المتجري\JUMIA\AdminArea\AdminArea.Web\bin\Debug\net6.0\refs\System.Security.SecureString.dll
+H:\.NET PROJECTS\الموقع المتجري\JUMIA\AdminArea\AdminArea.Web\bin\Debug\net6.0\refs\System.ServiceModel.Web.dll
+H:\.NET PROJECTS\الموقع المتجري\JUMIA\AdminArea\AdminArea.Web\bin\Debug\net6.0\refs\System.ServiceProcess.dll
+H:\.NET PROJECTS\الموقع المتجري\JUMIA\AdminArea\AdminArea.Web\bin\Debug\net6.0\refs\System.Text.Encoding.CodePages.dll
+H:\.NET PROJECTS\الموقع المتجري\JUMIA\AdminArea\AdminArea.Web\bin\Debug\net6.0\refs\System.Text.Encoding.dll
+H:\.NET PROJECTS\الموقع المتجري\JUMIA\AdminArea\AdminArea.Web\bin\Debug\net6.0\refs\System.Text.Encoding.Extensions.dll
+H:\.NET PROJECTS\الموقع المتجري\JUMIA\AdminArea\AdminArea.Web\bin\Debug\net6.0\refs\System.Text.RegularExpressions.dll
+H:\.NET PROJECTS\الموقع المتجري\JUMIA\AdminArea\AdminArea.Web\bin\Debug\net6.0\refs\System.Threading.Channels.dll
+H:\.NET PROJECTS\الموقع المتجري\JUMIA\AdminArea\AdminArea.Web\bin\Debug\net6.0\refs\System.Threading.dll
+H:\.NET PROJECTS\الموقع المتجري\JUMIA\AdminArea\AdminArea.Web\bin\Debug\net6.0\refs\System.Threading.Overlapped.dll
+H:\.NET PROJECTS\الموقع المتجري\JUMIA\AdminArea\AdminArea.Web\bin\Debug\net6.0\refs\System.Threading.Tasks.Dataflow.dll
+H:\.NET PROJECTS\الموقع المتجري\JUMIA\AdminArea\AdminArea.Web\bin\Debug\net6.0\refs\System.Threading.Tasks.dll
+H:\.NET PROJECTS\الموقع المتجري\JUMIA\AdminArea\AdminArea.Web\bin\Debug\net6.0\refs\System.Threading.Tasks.Extensions.dll
+H:\.NET PROJECTS\الموقع المتجري\JUMIA\AdminArea\AdminArea.Web\bin\Debug\net6.0\refs\System.Threading.Tasks.Parallel.dll
+H:\.NET PROJECTS\الموقع المتجري\JUMIA\AdminArea\AdminArea.Web\bin\Debug\net6.0\refs\System.Threading.Thread.dll
+H:\.NET PROJECTS\الموقع المتجري\JUMIA\AdminArea\AdminArea.Web\bin\Debug\net6.0\refs\System.Threading.ThreadPool.dll
+H:\.NET PROJECTS\الموقع المتجري\JUMIA\AdminArea\AdminArea.Web\bin\Debug\net6.0\refs\System.Threading.Timer.dll
+H:\.NET PROJECTS\الموقع المتجري\JUMIA\AdminArea\AdminArea.Web\bin\Debug\net6.0\refs\System.Transactions.dll
+H:\.NET PROJECTS\الموقع المتجري\JUMIA\AdminArea\AdminArea.Web\bin\Debug\net6.0\refs\System.Transactions.Local.dll
+H:\.NET PROJECTS\الموقع المتجري\JUMIA\AdminArea\AdminArea.Web\bin\Debug\net6.0\refs\System.ValueTuple.dll
+H:\.NET PROJECTS\الموقع المتجري\JUMIA\AdminArea\AdminArea.Web\bin\Debug\net6.0\refs\System.Web.dll
+H:\.NET PROJECTS\الموقع المتجري\JUMIA\AdminArea\AdminArea.Web\bin\Debug\net6.0\refs\System.Web.HttpUtility.dll
+H:\.NET PROJECTS\الموقع المتجري\JUMIA\AdminArea\AdminArea.Web\bin\Debug\net6.0\refs\System.Windows.dll
+H:\.NET PROJECTS\الموقع المتجري\JUMIA\AdminArea\AdminArea.Web\bin\Debug\net6.0\refs\System.Xml.dll
+H:\.NET PROJECTS\الموقع المتجري\JUMIA\AdminArea\AdminArea.Web\bin\Debug\net6.0\refs\System.Xml.Linq.dll
+H:\.NET PROJECTS\الموقع المتجري\JUMIA\AdminArea\AdminArea.Web\bin\Debug\net6.0\refs\System.Xml.ReaderWriter.dll
+H:\.NET PROJECTS\الموقع المتجري\JUMIA\AdminArea\AdminArea.Web\bin\Debug\net6.0\refs\System.Xml.Serialization.dll
+H:\.NET PROJECTS\الموقع المتجري\JUMIA\AdminArea\AdminArea.Web\bin\Debug\net6.0\refs\System.Xml.XDocument.dll
+H:\.NET PROJECTS\الموقع المتجري\JUMIA\AdminArea\AdminArea.Web\bin\Debug\net6.0\refs\System.Xml.XmlDocument.dll
+H:\.NET PROJECTS\الموقع المتجري\JUMIA\AdminArea\AdminArea.Web\bin\Debug\net6.0\refs\System.Xml.XmlSerializer.dll
+H:\.NET PROJECTS\الموقع المتجري\JUMIA\AdminArea\AdminArea.Web\bin\Debug\net6.0\refs\System.Xml.XPath.dll
+H:\.NET PROJECTS\الموقع المتجري\JUMIA\AdminArea\AdminArea.Web\bin\Debug\net6.0\refs\System.Xml.XPath.XDocument.dll
+H:\.NET PROJECTS\الموقع المتجري\JUMIA\AdminArea\AdminArea.Web\bin\Debug\net6.0\refs\WindowsBase.dll
+H:\.NET PROJECTS\الموقع المتجري\JUMIA\AdminArea\AdminArea.Web\bin\Debug\net6.0\Azure.Core.dll
+H:\.NET PROJECTS\الموقع المتجري\JUMIA\AdminArea\AdminArea.Web\bin\Debug\net6.0\Azure.Identity.dll
+H:\.NET PROJECTS\الموقع المتجري\JUMIA\AdminArea\AdminArea.Web\bin\Debug\net6.0\Dapper.dll
+H:\.NET PROJECTS\الموقع المتجري\JUMIA\AdminArea\AdminArea.Web\bin\Debug\net6.0\EPPlus.dll
+H:\.NET PROJECTS\الموقع المتجري\JUMIA\AdminArea\AdminArea.Web\bin\Debug\net6.0\FastMember.dll
+H:\.NET PROJECTS\الموقع المتجري\JUMIA\AdminArea\AdminArea.Web\bin\Debug\net6.0\FirebirdSql.Data.FirebirdClient.dll
+H:\.NET PROJECTS\الموقع المتجري\JUMIA\AdminArea\AdminArea.Web\bin\Debug\net6.0\FluentMigrator.dll
+H:\.NET PROJECTS\الموقع المتجري\JUMIA\AdminArea\AdminArea.Web\bin\Debug\net6.0\FluentMigrator.Abstractions.dll
+H:\.NET PROJECTS\الموقع المتجري\JUMIA\AdminArea\AdminArea.Web\bin\Debug\net6.0\FluentMigrator.Extensions.Oracle.dll
+H:\.NET PROJECTS\الموقع المتجري\JUMIA\AdminArea\AdminArea.Web\bin\Debug\net6.0\FluentMigrator.Extensions.Postgres.dll
+H:\.NET PROJECTS\الموقع المتجري\JUMIA\AdminArea\AdminArea.Web\bin\Debug\net6.0\FluentMigrator.Extensions.SqlAnywhere.dll
+H:\.NET PROJECTS\الموقع المتجري\JUMIA\AdminArea\AdminArea.Web\bin\Debug\net6.0\FluentMigrator.Extensions.SqlServer.dll
+H:\.NET PROJECTS\الموقع المتجري\JUMIA\AdminArea\AdminArea.Web\bin\Debug\net6.0\FluentMigrator.Runner.dll
+H:\.NET PROJECTS\الموقع المتجري\JUMIA\AdminArea\AdminArea.Web\bin\Debug\net6.0\FluentMigrator.Runner.Core.dll
+H:\.NET PROJECTS\الموقع المتجري\JUMIA\AdminArea\AdminArea.Web\bin\Debug\net6.0\FluentMigrator.Runner.Db2.dll
+H:\.NET PROJECTS\الموقع المتجري\JUMIA\AdminArea\AdminArea.Web\bin\Debug\net6.0\FluentMigrator.Runner.Firebird.dll
+H:\.NET PROJECTS\الموقع المتجري\JUMIA\AdminArea\AdminArea.Web\bin\Debug\net6.0\FluentMigrator.Runner.Hana.dll
+H:\.NET PROJECTS\الموقع المتجري\JUMIA\AdminArea\AdminArea.Web\bin\Debug\net6.0\FluentMigrator.Runner.MySql.dll
+H:\.NET PROJECTS\الموقع المتجري\JUMIA\AdminArea\AdminArea.Web\bin\Debug\net6.0\FluentMigrator.Runner.Oracle.dll
+H:\.NET PROJECTS\الموقع المتجري\JUMIA\AdminArea\AdminArea.Web\bin\Debug\net6.0\FluentMigrator.Runner.Postgres.dll
+H:\.NET PROJECTS\الموقع المتجري\JUMIA\AdminArea\AdminArea.Web\bin\Debug\net6.0\FluentMigrator.Runner.Redshift.dll
+H:\.NET PROJECTS\الموقع المتجري\JUMIA\AdminArea\AdminArea.Web\bin\Debug\net6.0\FluentMigrator.Runner.SqlAnywhere.dll
+H:\.NET PROJECTS\الموقع المتجري\JUMIA\AdminArea\AdminArea.Web\bin\Debug\net6.0\FluentMigrator.Runner.SQLite.dll
+H:\.NET PROJECTS\الموقع المتجري\JUMIA\AdminArea\AdminArea.Web\bin\Debug\net6.0\FluentMigrator.Runner.SqlServer.dll
+H:\.NET PROJECTS\الموقع المتجري\JUMIA\AdminArea\AdminArea.Web\bin\Debug\net6.0\FluentMigrator.Runner.SqlServerCe.dll
+H:\.NET PROJECTS\الموقع المتجري\JUMIA\AdminArea\AdminArea.Web\bin\Debug\net6.0\System.Data.SqlServerCe.dll
+H:\.NET PROJECTS\الموقع المتجري\JUMIA\AdminArea\AdminArea.Web\bin\Debug\net6.0\Humanizer.dll
+H:\.NET PROJECTS\الموقع المتجري\JUMIA\AdminArea\AdminArea.Web\bin\Debug\net6.0\MailKit.dll
+H:\.NET PROJECTS\الموقع المتجري\JUMIA\AdminArea\AdminArea.Web\bin\Debug\net6.0\Microsoft.AspNetCore.JsonPatch.dll
+H:\.NET PROJECTS\الموقع المتجري\JUMIA\AdminArea\AdminArea.Web\bin\Debug\net6.0\Microsoft.AspNetCore.Mvc.NewtonsoftJson.dll
+H:\.NET PROJECTS\الموقع المتجري\JUMIA\AdminArea\AdminArea.Web\bin\Debug\net6.0\Microsoft.AspNetCore.Mvc.Razor.Extensions.dll
+H:\.NET PROJECTS\الموقع المتجري\JUMIA\AdminArea\AdminArea.Web\bin\Debug\net6.0\Microsoft.AspNetCore.Mvc.Razor.RuntimeCompilation.dll
+H:\.NET PROJECTS\الموقع المتجري\JUMIA\AdminArea\AdminArea.Web\bin\Debug\net6.0\Microsoft.AspNetCore.Razor.Language.dll
+H:\.NET PROJECTS\الموقع المتجري\JUMIA\AdminArea\AdminArea.Web\bin\Debug\net6.0\Microsoft.Bcl.AsyncInterfaces.dll
+H:\.NET PROJECTS\الموقع المتجري\JUMIA\AdminArea\AdminArea.Web\bin\Debug\net6.0\Microsoft.CodeAnalysis.dll
+H:\.NET PROJECTS\الموقع المتجري\JUMIA\AdminArea\AdminArea.Web\bin\Debug\net6.0\Microsoft.CodeAnalysis.CSharp.dll
+H:\.NET PROJECTS\الموقع المتجري\JUMIA\AdminArea\AdminArea.Web\bin\Debug\net6.0\Microsoft.CodeAnalysis.Razor.dll
+H:\.NET PROJECTS\الموقع المتجري\JUMIA\AdminArea\AdminArea.Web\bin\Debug\net6.0\Microsoft.Data.SqlClient.dll
+H:\.NET PROJECTS\الموقع المتجري\JUMIA\AdminArea\AdminArea.Web\bin\Debug\net6.0\Microsoft.Data.Sqlite.dll
+H:\.NET PROJECTS\الموقع المتجري\JUMIA\AdminArea\AdminArea.Web\bin\Debug\net6.0\Microsoft.EntityFrameworkCore.dll
+H:\.NET PROJECTS\الموقع المتجري\JUMIA\AdminArea\AdminArea.Web\bin\Debug\net6.0\Microsoft.EntityFrameworkCore.Abstractions.dll
+H:\.NET PROJECTS\الموقع المتجري\JUMIA\AdminArea\AdminArea.Web\bin\Debug\net6.0\Microsoft.EntityFrameworkCore.Design.dll
+H:\.NET PROJECTS\الموقع المتجري\JUMIA\AdminArea\AdminArea.Web\bin\Debug\net6.0\Microsoft.EntityFrameworkCore.Relational.dll
+H:\.NET PROJECTS\الموقع المتجري\JUMIA\AdminArea\AdminArea.Web\bin\Debug\net6.0\Microsoft.Extensions.Caching.Abstractions.dll
+H:\.NET PROJECTS\الموقع المتجري\JUMIA\AdminArea\AdminArea.Web\bin\Debug\net6.0\Microsoft.Extensions.Caching.Memory.dll
+H:\.NET PROJECTS\الموقع المتجري\JUMIA\AdminArea\AdminArea.Web\bin\Debug\net6.0\Microsoft.Extensions.Configuration.Abstractions.dll
+H:\.NET PROJECTS\الموقع المتجري\JUMIA\AdminArea\AdminArea.Web\bin\Debug\net6.0\Microsoft.Extensions.DependencyInjection.dll
+H:\.NET PROJECTS\الموقع المتجري\JUMIA\AdminArea\AdminArea.Web\bin\Debug\net6.0\Microsoft.Extensions.DependencyInjection.Abstractions.dll
+H:\.NET PROJECTS\الموقع المتجري\JUMIA\AdminArea\AdminArea.Web\bin\Debug\net6.0\Microsoft.Extensions.DependencyModel.dll
+H:\.NET PROJECTS\الموقع المتجري\JUMIA\AdminArea\AdminArea.Web\bin\Debug\net6.0\Microsoft.Extensions.Logging.dll
+H:\.NET PROJECTS\الموقع المتجري\JUMIA\AdminArea\AdminArea.Web\bin\Debug\net6.0\Microsoft.Extensions.Logging.Abstractions.dll
+H:\.NET PROJECTS\الموقع المتجري\JUMIA\AdminArea\AdminArea.Web\bin\Debug\net6.0\Microsoft.Extensions.Options.dll
+H:\.NET PROJECTS\الموقع المتجري\JUMIA\AdminArea\AdminArea.Web\bin\Debug\net6.0\Microsoft.Extensions.Primitives.dll
+H:\.NET PROJECTS\الموقع المتجري\JUMIA\AdminArea\AdminArea.Web\bin\Debug\net6.0\Microsoft.Identity.Client.dll
+H:\.NET PROJECTS\الموقع المتجري\JUMIA\AdminArea\AdminArea.Web\bin\Debug\net6.0\Microsoft.Identity.Client.Extensions.Msal.dll
+H:\.NET PROJECTS\الموقع المتجري\JUMIA\AdminArea\AdminArea.Web\bin\Debug\net6.0\Microsoft.IdentityModel.Abstractions.dll
+H:\.NET PROJECTS\الموقع المتجري\JUMIA\AdminArea\AdminArea.Web\bin\Debug\net6.0\Microsoft.IdentityModel.JsonWebTokens.dll
+H:\.NET PROJECTS\الموقع المتجري\JUMIA\AdminArea\AdminArea.Web\bin\Debug\net6.0\Microsoft.IdentityModel.Logging.dll
+H:\.NET PROJECTS\الموقع المتجري\JUMIA\AdminArea\AdminArea.Web\bin\Debug\net6.0\Microsoft.IdentityModel.Protocols.dll
+H:\.NET PROJECTS\الموقع المتجري\JUMIA\AdminArea\AdminArea.Web\bin\Debug\net6.0\Microsoft.IdentityModel.Protocols.OpenIdConnect.dll
+H:\.NET PROJECTS\الموقع المتجري\JUMIA\AdminArea\AdminArea.Web\bin\Debug\net6.0\Microsoft.IdentityModel.Tokens.dll
+H:\.NET PROJECTS\الموقع المتجري\JUMIA\AdminArea\AdminArea.Web\bin\Debug\net6.0\Microsoft.SqlServer.Server.dll
+H:\.NET PROJECTS\الموقع المتجري\JUMIA\AdminArea\AdminArea.Web\bin\Debug\net6.0\Microsoft.Win32.SystemEvents.dll
+H:\.NET PROJECTS\الموقع المتجري\JUMIA\AdminArea\AdminArea.Web\bin\Debug\net6.0\MimeKit.dll
+H:\.NET PROJECTS\الموقع المتجري\JUMIA\AdminArea\AdminArea.Web\bin\Debug\net6.0\Mono.Cecil.Mdb.dll
+H:\.NET PROJECTS\الموقع المتجري\JUMIA\AdminArea\AdminArea.Web\bin\Debug\net6.0\Mono.Cecil.Pdb.dll
+H:\.NET PROJECTS\الموقع المتجري\JUMIA\AdminArea\AdminArea.Web\bin\Debug\net6.0\Mono.Cecil.Rocks.dll
+H:\.NET PROJECTS\الموقع المتجري\JUMIA\AdminArea\AdminArea.Web\bin\Debug\net6.0\Mono.Cecil.dll
+H:\.NET PROJECTS\الموقع المتجري\JUMIA\AdminArea\AdminArea.Web\bin\Debug\net6.0\Mono.TextTemplating.dll
+H:\.NET PROJECTS\الموقع المتجري\JUMIA\AdminArea\AdminArea.Web\bin\Debug\net6.0\MySqlConnector.dll
+H:\.NET PROJECTS\الموقع المتجري\JUMIA\AdminArea\AdminArea.Web\bin\Debug\net6.0\nClam.dll
+H:\.NET PROJECTS\الموقع المتجري\JUMIA\AdminArea\AdminArea.Web\bin\Debug\net6.0\Newtonsoft.Json.dll
+H:\.NET PROJECTS\الموقع المتجري\JUMIA\AdminArea\AdminArea.Web\bin\Debug\net6.0\Newtonsoft.Json.Bson.dll
+H:\.NET PROJECTS\الموقع المتجري\JUMIA\AdminArea\AdminArea.Web\bin\Debug\net6.0\Npgsql.dll
+H:\.NET PROJECTS\الموقع المتجري\JUMIA\AdminArea\AdminArea.Web\bin\Debug\net6.0\NUglify.dll
+H:\.NET PROJECTS\الموقع المتجري\JUMIA\AdminArea\AdminArea.Web\bin\Debug\net6.0\BouncyCastle.Crypto.dll
+H:\.NET PROJECTS\الموقع المتجري\JUMIA\AdminArea\AdminArea.Web\bin\Debug\net6.0\Scriban.dll
+H:\.NET PROJECTS\الموقع المتجري\JUMIA\AdminArea\AdminArea.Web\bin\Debug\net6.0\Serenity.Assets.dll
+H:\.NET PROJECTS\الموقع المتجري\JUMIA\AdminArea\AdminArea.Web\bin\Debug\net6.0\dotnet-sergen.dll
+H:\.NET PROJECTS\الموقع المتجري\JUMIA\AdminArea\AdminArea.Web\bin\Debug\net6.0\Serenity.Extensions.dll
+H:\.NET PROJECTS\الموقع المتجري\JUMIA\AdminArea\AdminArea.Web\bin\Debug\net6.0\Serenity.Net.Core.dll
+H:\.NET PROJECTS\الموقع المتجري\JUMIA\AdminArea\AdminArea.Web\bin\Debug\net6.0\Serenity.Net.Data.dll
+H:\.NET PROJECTS\الموقع المتجري\JUMIA\AdminArea\AdminArea.Web\bin\Debug\net6.0\Serenity.Net.Entity.dll
+H:\.NET PROJECTS\الموقع المتجري\JUMIA\AdminArea\AdminArea.Web\bin\Debug\net6.0\Serenity.Net.Services.dll
+H:\.NET PROJECTS\الموقع المتجري\JUMIA\AdminArea\AdminArea.Web\bin\Debug\net6.0\Serenity.Net.Web.dll
+H:\.NET PROJECTS\الموقع المتجري\JUMIA\AdminArea\AdminArea.Web\bin\Debug\net6.0\Serenity.Scripts.dll
+H:\.NET PROJECTS\الموقع المتجري\JUMIA\AdminArea\AdminArea.Web\bin\Debug\net6.0\SixLabors.ImageSharp.dll
+H:\.NET PROJECTS\الموقع المتجري\JUMIA\AdminArea\AdminArea.Web\bin\Debug\net6.0\SQLitePCLRaw.batteries_v2.dll
+H:\.NET PROJECTS\الموقع المتجري\JUMIA\AdminArea\AdminArea.Web\bin\Debug\net6.0\SQLitePCLRaw.core.dll
+H:\.NET PROJECTS\الموقع المتجري\JUMIA\AdminArea\AdminArea.Web\bin\Debug\net6.0\SQLitePCLRaw.provider.e_sqlite3.dll
+H:\.NET PROJECTS\الموقع المتجري\JUMIA\AdminArea\AdminArea.Web\bin\Debug\net6.0\System.CodeDom.dll
+H:\.NET PROJECTS\الموقع المتجري\JUMIA\AdminArea\AdminArea.Web\bin\Debug\net6.0\System.Configuration.ConfigurationManager.dll
+H:\.NET PROJECTS\الموقع المتجري\JUMIA\AdminArea\AdminArea.Web\bin\Debug\net6.0\System.Data.SqlClient.dll
+H:\.NET PROJECTS\الموقع المتجري\JUMIA\AdminArea\AdminArea.Web\bin\Debug\net6.0\System.Drawing.Common.dll
+H:\.NET PROJECTS\الموقع المتجري\JUMIA\AdminArea\AdminArea.Web\bin\Debug\net6.0\System.IdentityModel.Tokens.Jwt.dll
+H:\.NET PROJECTS\الموقع المتجري\JUMIA\AdminArea\AdminArea.Web\bin\Debug\net6.0\System.Memory.Data.dll
+H:\.NET PROJECTS\الموقع المتجري\JUMIA\AdminArea\AdminArea.Web\bin\Debug\net6.0\System.Runtime.Caching.dll
+H:\.NET PROJECTS\الموقع المتجري\JUMIA\AdminArea\AdminArea.Web\bin\Debug\net6.0\System.Security.Cryptography.ProtectedData.dll
+H:\.NET PROJECTS\الموقع المتجري\JUMIA\AdminArea\AdminArea.Web\bin\Debug\net6.0\System.Security.Permissions.dll
+H:\.NET PROJECTS\الموقع المتجري\JUMIA\AdminArea\AdminArea.Web\bin\Debug\net6.0\System.Text.Encodings.Web.dll
+H:\.NET PROJECTS\الموقع المتجري\JUMIA\AdminArea\AdminArea.Web\bin\Debug\net6.0\System.Text.Json.dll
+H:\.NET PROJECTS\الموقع المتجري\JUMIA\AdminArea\AdminArea.Web\bin\Debug\net6.0\System.Windows.Extensions.dll
+H:\.NET PROJECTS\الموقع المتجري\JUMIA\AdminArea\AdminArea.Web\bin\Debug\net6.0\System.Xml.XPath.XmlDocument.dll
+H:\.NET PROJECTS\الموقع المتجري\JUMIA\AdminArea\AdminArea.Web\bin\Debug\net6.0\de-DE\FluentMigrator.Abstractions.resources.dll
+H:\.NET PROJECTS\الموقع المتجري\JUMIA\AdminArea\AdminArea.Web\bin\Debug\net6.0\cs\Microsoft.CodeAnalysis.resources.dll
+H:\.NET PROJECTS\الموقع المتجري\JUMIA\AdminArea\AdminArea.Web\bin\Debug\net6.0\de\Microsoft.CodeAnalysis.resources.dll
+H:\.NET PROJECTS\الموقع المتجري\JUMIA\AdminArea\AdminArea.Web\bin\Debug\net6.0\es\Microsoft.CodeAnalysis.resources.dll
+H:\.NET PROJECTS\الموقع المتجري\JUMIA\AdminArea\AdminArea.Web\bin\Debug\net6.0\fr\Microsoft.CodeAnalysis.resources.dll
+H:\.NET PROJECTS\الموقع المتجري\JUMIA\AdminArea\AdminArea.Web\bin\Debug\net6.0\it\Microsoft.CodeAnalysis.resources.dll
+H:\.NET PROJECTS\الموقع المتجري\JUMIA\AdminArea\AdminArea.Web\bin\Debug\net6.0\ja\Microsoft.CodeAnalysis.resources.dll
+H:\.NET PROJECTS\الموقع المتجري\JUMIA\AdminArea\AdminArea.Web\bin\Debug\net6.0\ko\Microsoft.CodeAnalysis.resources.dll
+H:\.NET PROJECTS\الموقع المتجري\JUMIA\AdminArea\AdminArea.Web\bin\Debug\net6.0\pl\Microsoft.CodeAnalysis.resources.dll
+H:\.NET PROJECTS\الموقع المتجري\JUMIA\AdminArea\AdminArea.Web\bin\Debug\net6.0\pt-BR\Microsoft.CodeAnalysis.resources.dll
+H:\.NET PROJECTS\الموقع المتجري\JUMIA\AdminArea\AdminArea.Web\bin\Debug\net6.0\ru\Microsoft.CodeAnalysis.resources.dll
+H:\.NET PROJECTS\الموقع المتجري\JUMIA\AdminArea\AdminArea.Web\bin\Debug\net6.0\tr\Microsoft.CodeAnalysis.resources.dll
+H:\.NET PROJECTS\الموقع المتجري\JUMIA\AdminArea\AdminArea.Web\bin\Debug\net6.0\zh-Hans\Microsoft.CodeAnalysis.resources.dll
+H:\.NET PROJECTS\الموقع المتجري\JUMIA\AdminArea\AdminArea.Web\bin\Debug\net6.0\zh-Hant\Microsoft.CodeAnalysis.resources.dll
+H:\.NET PROJECTS\الموقع المتجري\JUMIA\AdminArea\AdminArea.Web\bin\Debug\net6.0\cs\Microsoft.CodeAnalysis.CSharp.resources.dll
+H:\.NET PROJECTS\الموقع المتجري\JUMIA\AdminArea\AdminArea.Web\bin\Debug\net6.0\de\Microsoft.CodeAnalysis.CSharp.resources.dll
+H:\.NET PROJECTS\الموقع المتجري\JUMIA\AdminArea\AdminArea.Web\bin\Debug\net6.0\es\Microsoft.CodeAnalysis.CSharp.resources.dll
+H:\.NET PROJECTS\الموقع المتجري\JUMIA\AdminArea\AdminArea.Web\bin\Debug\net6.0\fr\Microsoft.CodeAnalysis.CSharp.resources.dll
+H:\.NET PROJECTS\الموقع المتجري\JUMIA\AdminArea\AdminArea.Web\bin\Debug\net6.0\it\Microsoft.CodeAnalysis.CSharp.resources.dll
+H:\.NET PROJECTS\الموقع المتجري\JUMIA\AdminArea\AdminArea.Web\bin\Debug\net6.0\ja\Microsoft.CodeAnalysis.CSharp.resources.dll
+H:\.NET PROJECTS\الموقع المتجري\JUMIA\AdminArea\AdminArea.Web\bin\Debug\net6.0\ko\Microsoft.CodeAnalysis.CSharp.resources.dll
+H:\.NET PROJECTS\الموقع المتجري\JUMIA\AdminArea\AdminArea.Web\bin\Debug\net6.0\pl\Microsoft.CodeAnalysis.CSharp.resources.dll
+H:\.NET PROJECTS\الموقع المتجري\JUMIA\AdminArea\AdminArea.Web\bin\Debug\net6.0\pt-BR\Microsoft.CodeAnalysis.CSharp.resources.dll
+H:\.NET PROJECTS\الموقع المتجري\JUMIA\AdminArea\AdminArea.Web\bin\Debug\net6.0\ru\Microsoft.CodeAnalysis.CSharp.resources.dll
+H:\.NET PROJECTS\الموقع المتجري\JUMIA\AdminArea\AdminArea.Web\bin\Debug\net6.0\tr\Microsoft.CodeAnalysis.CSharp.resources.dll
+H:\.NET PROJECTS\الموقع المتجري\JUMIA\AdminArea\AdminArea.Web\bin\Debug\net6.0\zh-Hans\Microsoft.CodeAnalysis.CSharp.resources.dll
+H:\.NET PROJECTS\الموقع المتجري\JUMIA\AdminArea\AdminArea.Web\bin\Debug\net6.0\zh-Hant\Microsoft.CodeAnalysis.CSharp.resources.dll
+H:\.NET PROJECTS\الموقع المتجري\JUMIA\AdminArea\AdminArea.Web\bin\Debug\net6.0\runtimes\unix\lib\net6.0\Microsoft.Data.SqlClient.dll
+H:\.NET PROJECTS\الموقع المتجري\JUMIA\AdminArea\AdminArea.Web\bin\Debug\net6.0\runtimes\win\lib\net6.0\Microsoft.Data.SqlClient.dll
+H:\.NET PROJECTS\الموقع المتجري\JUMIA\AdminArea\AdminArea.Web\bin\Debug\net6.0\runtimes\win-arm\native\Microsoft.Data.SqlClient.SNI.dll
+H:\.NET PROJECTS\الموقع المتجري\JUMIA\AdminArea\AdminArea.Web\bin\Debug\net6.0\runtimes\win-arm64\native\Microsoft.Data.SqlClient.SNI.dll
+H:\.NET PROJECTS\الموقع المتجري\JUMIA\AdminArea\AdminArea.Web\bin\Debug\net6.0\runtimes\win-x64\native\Microsoft.Data.SqlClient.SNI.dll
+H:\.NET PROJECTS\الموقع المتجري\JUMIA\AdminArea\AdminArea.Web\bin\Debug\net6.0\runtimes\win-x86\native\Microsoft.Data.SqlClient.SNI.dll
+H:\.NET PROJECTS\الموقع المتجري\JUMIA\AdminArea\AdminArea.Web\bin\Debug\net6.0\runtimes\win\lib\net6.0\Microsoft.Win32.SystemEvents.dll
+H:\.NET PROJECTS\الموقع المتجري\JUMIA\AdminArea\AdminArea.Web\bin\Debug\net6.0\runtimes\win-arm64\native\sni.dll
+H:\.NET PROJECTS\الموقع المتجري\JUMIA\AdminArea\AdminArea.Web\bin\Debug\net6.0\runtimes\win-x64\native\sni.dll
+H:\.NET PROJECTS\الموقع المتجري\JUMIA\AdminArea\AdminArea.Web\bin\Debug\net6.0\runtimes\win-x86\native\sni.dll
+H:\.NET PROJECTS\الموقع المتجري\JUMIA\AdminArea\AdminArea.Web\bin\Debug\net6.0\runtimes\alpine-arm\native\libe_sqlite3.so
+H:\.NET PROJECTS\الموقع المتجري\JUMIA\AdminArea\AdminArea.Web\bin\Debug\net6.0\runtimes\alpine-arm64\native\libe_sqlite3.so
+H:\.NET PROJECTS\الموقع المتجري\JUMIA\AdminArea\AdminArea.Web\bin\Debug\net6.0\runtimes\alpine-x64\native\libe_sqlite3.so
+H:\.NET PROJECTS\الموقع المتجري\JUMIA\AdminArea\AdminArea.Web\bin\Debug\net6.0\runtimes\browser-wasm\nativeassets\net6.0\e_sqlite3.a
+H:\.NET PROJECTS\الموقع المتجري\JUMIA\AdminArea\AdminArea.Web\bin\Debug\net6.0\runtimes\linux-arm\native\libe_sqlite3.so
+H:\.NET PROJECTS\الموقع المتجري\JUMIA\AdminArea\AdminArea.Web\bin\Debug\net6.0\runtimes\linux-arm64\native\libe_sqlite3.so
+H:\.NET PROJECTS\الموقع المتجري\JUMIA\AdminArea\AdminArea.Web\bin\Debug\net6.0\runtimes\linux-armel\native\libe_sqlite3.so
+H:\.NET PROJECTS\الموقع المتجري\JUMIA\AdminArea\AdminArea.Web\bin\Debug\net6.0\runtimes\linux-mips64\native\libe_sqlite3.so
+H:\.NET PROJECTS\الموقع المتجري\JUMIA\AdminArea\AdminArea.Web\bin\Debug\net6.0\runtimes\linux-musl-arm\native\libe_sqlite3.so
+H:\.NET PROJECTS\الموقع المتجري\JUMIA\AdminArea\AdminArea.Web\bin\Debug\net6.0\runtimes\linux-musl-arm64\native\libe_sqlite3.so
+H:\.NET PROJECTS\الموقع المتجري\JUMIA\AdminArea\AdminArea.Web\bin\Debug\net6.0\runtimes\linux-musl-x64\native\libe_sqlite3.so
+H:\.NET PROJECTS\الموقع المتجري\JUMIA\AdminArea\AdminArea.Web\bin\Debug\net6.0\runtimes\linux-s390x\native\libe_sqlite3.so
+H:\.NET PROJECTS\الموقع المتجري\JUMIA\AdminArea\AdminArea.Web\bin\Debug\net6.0\runtimes\linux-x64\native\libe_sqlite3.so
+H:\.NET PROJECTS\الموقع المتجري\JUMIA\AdminArea\AdminArea.Web\bin\Debug\net6.0\runtimes\linux-x86\native\libe_sqlite3.so
+H:\.NET PROJECTS\الموقع المتجري\JUMIA\AdminArea\AdminArea.Web\bin\Debug\net6.0\runtimes\maccatalyst-arm64\native\libe_sqlite3.dylib
+H:\.NET PROJECTS\الموقع المتجري\JUMIA\AdminArea\AdminArea.Web\bin\Debug\net6.0\runtimes\maccatalyst-x64\native\libe_sqlite3.dylib
+H:\.NET PROJECTS\الموقع المتجري\JUMIA\AdminArea\AdminArea.Web\bin\Debug\net6.0\runtimes\osx-arm64\native\libe_sqlite3.dylib
+H:\.NET PROJECTS\الموقع المتجري\JUMIA\AdminArea\AdminArea.Web\bin\Debug\net6.0\runtimes\osx-x64\native\libe_sqlite3.dylib
+H:\.NET PROJECTS\الموقع المتجري\JUMIA\AdminArea\AdminArea.Web\bin\Debug\net6.0\runtimes\win-arm\native\e_sqlite3.dll
+H:\.NET PROJECTS\الموقع المتجري\JUMIA\AdminArea\AdminArea.Web\bin\Debug\net6.0\runtimes\win-arm64\native\e_sqlite3.dll
+H:\.NET PROJECTS\الموقع المتجري\JUMIA\AdminArea\AdminArea.Web\bin\Debug\net6.0\runtimes\win-x64\native\e_sqlite3.dll
+H:\.NET PROJECTS\الموقع المتجري\JUMIA\AdminArea\AdminArea.Web\bin\Debug\net6.0\runtimes\win-x86\native\e_sqlite3.dll
+H:\.NET PROJECTS\الموقع المتجري\JUMIA\AdminArea\AdminArea.Web\bin\Debug\net6.0\runtimes\unix\lib\netcoreapp2.1\System.Data.SqlClient.dll
+H:\.NET PROJECTS\الموقع المتجري\JUMIA\AdminArea\AdminArea.Web\bin\Debug\net6.0\runtimes\win\lib\netcoreapp2.1\System.Data.SqlClient.dll
+H:\.NET PROJECTS\الموقع المتجري\JUMIA\AdminArea\AdminArea.Web\bin\Debug\net6.0\runtimes\unix\lib\net6.0\System.Drawing.Common.dll
+H:\.NET PROJECTS\الموقع المتجري\JUMIA\AdminArea\AdminArea.Web\bin\Debug\net6.0\runtimes\win\lib\net6.0\System.Drawing.Common.dll
+H:\.NET PROJECTS\الموقع المتجري\JUMIA\AdminArea\AdminArea.Web\bin\Debug\net6.0\runtimes\win\lib\net6.0\System.Runtime.Caching.dll
+H:\.NET PROJECTS\الموقع المتجري\JUMIA\AdminArea\AdminArea.Web\bin\Debug\net6.0\runtimes\win\lib\net6.0\System.Security.Cryptography.ProtectedData.dll
+H:\.NET PROJECTS\الموقع المتجري\JUMIA\AdminArea\AdminArea.Web\bin\Debug\net6.0\runtimes\browser\lib\net6.0\System.Text.Encodings.Web.dll
+H:\.NET PROJECTS\الموقع المتجري\JUMIA\AdminArea\AdminArea.Web\bin\Debug\net6.0\runtimes\win\lib\net6.0\System.Windows.Extensions.dll
+H:\.NET PROJECTS\الموقع المتجري\JUMIA\AdminArea\AdminArea.Web\obj\Debug\net6.0\AdminArea.Web.csproj.AssemblyReference.cache
+H:\.NET PROJECTS\الموقع المتجري\JUMIA\AdminArea\AdminArea.Web\obj\Debug\net6.0\AdminArea.Web.GeneratedMSBuildEditorConfig.editorconfig
+H:\.NET PROJECTS\الموقع المتجري\JUMIA\AdminArea\AdminArea.Web\obj\Debug\net6.0\AdminArea.Web.AssemblyInfoInputs.cache
+H:\.NET PROJECTS\الموقع المتجري\JUMIA\AdminArea\AdminArea.Web\obj\Debug\net6.0\AdminArea.Web.AssemblyInfo.cs
+H:\.NET PROJECTS\الموقع المتجري\JUMIA\AdminArea\AdminArea.Web\obj\Debug\net6.0\AdminArea.Web.csproj.CoreCompileInputs.cache
+H:\.NET PROJECTS\الموقع المتجري\JUMIA\AdminArea\AdminArea.Web\obj\Debug\net6.0\AdminArea.Web.MvcApplicationPartsAssemblyInfo.cs
+H:\.NET PROJECTS\الموقع المتجري\JUMIA\AdminArea\AdminArea.Web\obj\Debug\net6.0\AdminArea.Web.MvcApplicationPartsAssemblyInfo.cache
+H:\.NET PROJECTS\الموقع المتجري\JUMIA\AdminArea\AdminArea.Web\obj\Debug\net6.0\AdminArea.Web.RazorAssemblyInfo.cache
+H:\.NET PROJECTS\الموقع المتجري\JUMIA\AdminArea\AdminArea.Web\obj\Debug\net6.0\AdminArea.Web.RazorAssemblyInfo.cs
+H:\.NET PROJECTS\الموقع المتجري\JUMIA\AdminArea\AdminArea.Web\obj\Debug\net6.0\staticwebassets\msbuild.AdminArea.Web.Microsoft.AspNetCore.StaticWebAssets.props
+H:\.NET PROJECTS\الموقع المتجري\JUMIA\AdminArea\AdminArea.Web\obj\Debug\net6.0\staticwebassets\msbuild.build.AdminArea.Web.props
+H:\.NET PROJECTS\الموقع المتجري\JUMIA\AdminArea\AdminArea.Web\obj\Debug\net6.0\staticwebassets\msbuild.buildMultiTargeting.AdminArea.Web.props
+H:\.NET PROJECTS\الموقع المتجري\JUMIA\AdminArea\AdminArea.Web\obj\Debug\net6.0\staticwebassets\msbuild.buildTransitive.AdminArea.Web.props
+H:\.NET PROJECTS\الموقع المتجري\JUMIA\AdminArea\AdminArea.Web\obj\Debug\net6.0\staticwebassets.pack.json
+H:\.NET PROJECTS\الموقع المتجري\JUMIA\AdminArea\AdminArea.Web\obj\Debug\net6.0\staticwebassets.build.json
+H:\.NET PROJECTS\الموقع المتجري\JUMIA\AdminArea\AdminArea.Web\obj\Debug\net6.0\staticwebassets.development.json
+H:\.NET PROJECTS\الموقع المتجري\JUMIA\AdminArea\AdminArea.Web\obj\Debug\net6.0\scopedcss\bundle\AdminArea.Web.styles.css
+H:\.NET PROJECTS\الموقع المتجري\JUMIA\AdminArea\AdminArea.Web\obj\Debug\net6.0\AdminArea.Web.csproj.CopyComplete
+H:\.NET PROJECTS\الموقع المتجري\JUMIA\AdminArea\AdminArea.Web\obj\Debug\net6.0\AdminArea.Web.dll
+H:\.NET PROJECTS\الموقع المتجري\JUMIA\AdminArea\AdminArea.Web\obj\Debug\net6.0\refint\AdminArea.Web.dll
+H:\.NET PROJECTS\الموقع المتجري\JUMIA\AdminArea\AdminArea.Web\obj\Debug\net6.0\AdminArea.Web.pdb
+H:\.NET PROJECTS\الموقع المتجري\JUMIA\AdminArea\AdminArea.Web\obj\Debug\net6.0\AdminArea.Web.genruntimeconfig.cache
+H:\.NET PROJECTS\الموقع المتجري\JUMIA\AdminArea\AdminArea.Web\obj\Debug\net6.0\ref\AdminArea.Web.dll

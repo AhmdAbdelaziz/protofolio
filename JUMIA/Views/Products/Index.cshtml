@@ -1,0 +1,68 @@
+﻿@model ProductVM
+
+<!-- ======= Contact Section ======= -->
+<section id="contact" class="contact section-bg">
+    <div class="container" data-aos="fade-up">
+
+
+
+        <div class="row">
+
+
+
+            <div class="col-lg-6">
+                <form asp-action="Create" asp-controller="Products" method="post" style="box-shadow: 0 0 30px rgba(214, 215, 216, 0.6);
+                      padding: 30px;
+                      background: #fff;">
+                    <div class="row">
+                        <div asp-validation-summary="ModelOnly" class="text-danger"></div>
+                        <div class="col-md-6 form-group">
+                            <label asp-for="ProducName" class="control-label"></label>
+                            <input type="text" name="ProducName" class="form-control" id="ProducName" >
+                            <span asp-validation-for="ProducName" class="text-danger"></span>
+
+                        </div>
+                        <div class="col-md-6 form-group mt-3 mt-md-0">
+                            <label asp-for="ProducPrice" class="control-label"></label>
+                            <input type="text" class="form-control" name="ProducPrice" id="ProducPrice">
+                            <span asp-validation-for="ProducPrice" class="text-danger"></span>
+
+                        </div>
+                    </div>
+                    <div class="form-group mt-3">
+                        <label asp-for="ProducQuantity" class="control-label"></label>
+                        <input type="text" class="form-control" name="ProducQuantity" id="ProducQuantity" >
+                        <span asp-validation-for="ProducQuantity" class="text-danger"></span>
+
+                    </div>
+                    <div class="form-group mt-3">
+
+                        <label asp-for="CategoryName" class="control-label"></label>
+                        @Html.DropDownList("Id",(SelectList)ViewBag.catlist,"اختر القسم")
+                        <input type="text" class="form-control" name="CategoryName" id="CategoryName"></input>
+                        <span asp-validation-for="CategoryName" class="text-danger"></span>
+
+
+                    </div>
+                    <div class="my-3">
+                        <div class="loading">Loading</div>
+                        <div class="error-message"></div>
+                        <div class="sent-message">Your message has been sent. Thank you!</div>
+                    </div>
+                    <div class="text-center">
+                        <button style="background: #5846f9;
+                                          border: 0;
+                                          padding: 10px 24px;
+                                          color: #fff;
+                                          transition: 0.4s;
+                                          border-radius: 5px;" type="submit">
+                            Create
+                        </button>
+                    </div>
+                </form>
+            </div>
+
+        </div>
+
+    </div>
+</section><!-- End Contact Section -->

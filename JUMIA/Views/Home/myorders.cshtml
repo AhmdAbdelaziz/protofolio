@@ -1,0 +1,50 @@
+﻿@model List<Order>
+
+
+@foreach (var item in Model)
+{
+    <h2>   رقم الطلب @item.Id</h2>
+    <h2>   توصيل لعنوان @item.Address</h2>
+
+    <table class="table table-hover table-stribbed">
+        <tr>
+            <th>اسم المنتج</th>
+            <th> السعر</th>
+            <th> الكمية</th>
+            <th> الاجمالي</th>
+        </tr>
+        @{
+            decimal sum = 0;
+        }
+        @foreach (var detail in item.DetailOfOrders)
+        {
+            <tr>
+                <td> @detail.Product.Name</td>
+                <td> @detail.Priceanull</td>
+                <td> @detail.Qty</td>
+                <td> @detail.TotalPrice</td>
+                @{
+                    sum += (decimal)detail.TotalPrice;
+
+                }
+
+            </tr>
+            <tr style="background:green;color:white">
+
+                <td></td>
+                <td></td>
+                <td></td>
+                <td>الاجمالي:@sum</td>
+
+
+            </tr>
+
+
+        }
+
+
+
+    </table>
+}
+
+
